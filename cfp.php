@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>IEEE CONNECT</title>
+    <title>IEEE CONECCT</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -41,7 +41,7 @@
         <div class="container-xxl py-5">
             <div class="container py-5 px-lg-5">
                 <div class="wow fadeInUp" data-wow-delay="0.1s">
-                    <p class="section-title text-secondary justify-content-center"><span></span>IEEE CONNECT 2023<span></span></p>
+                    <p class="section-title text-secondary justify-content-center"><span></span>IEEE CONECCT 2023<span></span></p>
                     <h1 class="text-center mb-5">CALL FOR PAPERS & TUTORIALS</h1>
                 </div>
                 <div class="row justify-content-center" style="text-align: justify">

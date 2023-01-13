@@ -17,7 +17,7 @@
                 </div>
             </div>
             <div class="col-md-6 col-lg-3">
-                <p class="section-title text-white h5 mb-4">CONNECT WITH IEEE<span></span></p>
+                <p class="section-title text-white h5 mb-4">CONECCT WITH IEEE<span></span></p>
                 <a class="btn btn-link" href="https://ieee-collabratec.ieee.org/">IEEE Collabratec</a>
                 <a class="btn btn-link" href="https://www.ieee.org/about/employers-job-seekers.html">Careers at IEEE</a>
                 <a class="btn btn-link" href="https://www.ieee.org/about/news/index.html">IEEE Newsroom</a>

@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>IEEE CONNECT</title>
+    <title>IEEE CONECCT</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -33,7 +33,7 @@
                 <div class="container px-lg-5">
                     <div class="row g-5 align-items-end">
                         <div class="col-lg-6 text-center text-lg-start">
-                            <h1 class="text-white mb-4 animated slideInDown">IEEE CONNECT 2023</h1>
+                            <h1 class="text-white mb-4 animated slideInDown">IEEE CONECCT 2023</h1>
                             <h3 class="text-white pb-3 animated slideInDown">14TH - 16TH July 2023 - Bangalore </h3>
                             <a href="" class="btn btn-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Register Now</a>
                             <!-- <a href="" class="btn btn-light py-sm-3 px-sm-5 rounded-pill animated slideInRight">Contact Us</a> -->
@@ -53,7 +53,7 @@
                 <div class="row g-5 align-items-center">
                     <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
                         <h1 class="text-center mb-5">ABOUT THE CONFERENCE</h1>
-                        <p class="section-title text-secondary">About CONNECT 2023<span></span></p>
+                        <p class="section-title text-secondary">About CONECCT 2023<span></span></p>
                         <p class="mb-4">International Conference on Electronics, Computing and Communication Technologies, (CONECCT) is a flagship conference of the IEEE Bangalore Section, India. The CONECCT 2023 in its 9th edition and will be held from JULY 14-16, 2023. The conference will feature plenary talks, tutorials, and invited papers by distinguished researchers and technologists as well as contributed papers from academics and industry professionals. Peer-reviewed accepted papers will most likely be published in IEEE Xplore as well as Conference Proceedings. Cyber-Physical Systems are transforming the way people interact with engineered systems. Cyber-Physical Systems integrate sensing, computation, control, and networking into physical objects and infrastructure, connecting them to the internet and to each other. Robots, intelligent buildings, implantable medical devices, and autonomous cars are all bright examples of CPS.</p>
                     </div>
 
@@ -406,7 +406,7 @@
         <div class="container-xxl py-5">
             <div class="container py-5 px-lg-5">
                 <div class="wow fadeInUp" data-wow-delay="0.1s">
-                    <p class="section-title text-secondary justify-content-center"><span></span>IEEE CONNECT 2023<span></span></p>
+                    <p class="section-title text-secondary justify-content-center"><span></span>IEEE CONECCT 2023<span></span></p>
                     <h1 class="text-center mb-5">Contact Us</h1>
                 </div>
                 <div class="row justify-content-center">
@@ -454,7 +454,7 @@
         <div class="container-xxl py-5">
             <div class="container py-5 px-lg-5">
                 <div class="wow fadeInUp" data-wow-delay="0.1s">
-                    <p class="section-title text-secondary justify-content-center"><span></span>IEEE CONNECT 2023<span></span></p>
+                    <p class="section-title text-secondary justify-content-center"><span></span>IEEE CONECCT 2023<span></span></p>
                     <h1 class="text-center mb-5">Venue</h1>
                 </div>
                 <div class="row no-gutters">
