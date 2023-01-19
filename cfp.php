@@ -132,16 +132,16 @@
                 <div class="wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="text-center mb-5">GUIDELINES TO AUTHORS</h1>
                 </div>
-                <p>Below are some useful instructions to assist the authors to submit their papers for CONECCT 2022:</p>
+                <p style="text-align: justify;">Below are some useful instructions to assist the authors to submit their papers for CONECCT 2022:</p>
                 <br>
                 <h4>ORIGINALITY OF SUBMITTED PAPERS:</h4>
                 <br>
-                <p>Papers submitted to CONECCT 2023 shall contain original work by the author(s) that have not been published or
+                <p style="text-align: justify;">Papers submitted to CONECCT 2023 shall contain original work by the author(s) that have not been published or
                     submitted for publication elsewhere. The IEEE anti- plagiarism policy is applicable to all submissions. The
                     author(s) are solely responsible for any plagiarized submission.</p>
                 <h4>PAPER SUBMISSION:</h4>
                 <br>
-                <p>All papers are required to be prepared and submitted in the IEEE Standard two –column conference format of A4
+                <p style="text-align: justify;">All papers are required to be prepared and submitted in the IEEE Standard two –column conference format of A4
                     size in English. Papers must be four to six pages in length, including texts, Figures, photographs and
                     references. Any submitted paper that exceeds six pages will be rejected. The first page must include the title
                     of the paper, author(s), affiliations, address and text. Please do not include page numbers on submitted
@@ -151,7 +151,7 @@
                     The authors are required to use the standard IEEE manuscript template for conferences. The Microsoft Word
                     template in can be downloaded from IEEE conference template page: <a href="https://www.ieee.org/conferences/publishing/templates.html" style="color:#000000">Click here</a>
                 </p>
-                <p><b>NOTE:</b> Once the paper is submitted, we shall start reviewing it, so authors cannot update/resubmit the
+                <p style="text-align: justify;"><b>NOTE:</b> Once the paper is submitted, we shall start reviewing it, so authors cannot update/resubmit the
                     paper. They should submit the final version, update/resubmissions are not allowed.
                     <br><br>
                     The paper shall consist of original and previously unpublished work, including specific results. The
@@ -165,7 +165,7 @@
                     Files for final submission.
                 </p>
                 <h4>PAPER UPLOAD:</h4>
-                <p>All papers must be submitted in PDF or as a Microsoft Word Document via Microsoft Conference Management
+                <p style="text-align: justify;">All papers must be submitted in PDF or as a Microsoft Word Document via Microsoft Conference Management
                     Toolkit : CMT
                     <br><br>
                     The submitting authors may be required to create a Microsoft Conference Management Toolkit account before
