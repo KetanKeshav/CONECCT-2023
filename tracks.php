@@ -44,26 +44,26 @@
                     <p class="section-title text-secondary justify-content-center"><span></span>IEEE CONECCT 2023<span></span></p>
                     <h1 class="text-center mb-5">Tracks</h1>
                 </div>
-                <p>Track-A Data Scale, Reliability, Security and Privacy Challenges in CPS</p>
-                <p>Track-B Cloud Integration and Ubiquitous Computing for Cyber-Physical Systems</p>
-                <p>Track-C Network-wide Programming for CPS</p>
-                <p>Track-D Machine-type Communications over Wireless (B5G/6G) Communications</p>
-                <p>Track-E Cyber-physical systems for geoscience and remote sensing</p>
-                <p>Track-F CPS Platform for Intelligent Transportation System</p>
-                <p>Track-G Distributed Signal Processing for CPS</p>
-                <p>Track-H Sensors, Actuators, and Applications in CPS</p>
-                <p>Track-I Smart circuits and System design for CPS</p>
-                <p>Track-J Cyber-Physical System Aspects in Antenna Design</p>
-                <p>Track-K Photonics and Quantum Technologies</p>
-                <p>Track-L Energy Management in Grids and Micro-grids</p>
-                <p>Track-M CPS System Approach to Power Electronics</p>
-                <p>Track-N Robotics and Smart Systems in Cyber Context</p>
-                <p>Track-O Controls and Optimization for CPS</p>
-                <p>Track-P Formal Validation, Verification, and Testing Methods for Cyber-Physical Systems</p>
-                <p>Track-Q Network of Smart Appliances as CPS</p>
-                <p>Track-R Cyber-Physical System Architecture for Smart Healthcare</p>
-                <p>Track-S Influence of Social Networks on CPS</p>
-                <p>Track-T Exploration in Cyber-Physical System Education</p>
+                <p><b>Track-A</b> Data Scale, Reliability, Security and Privacy Challenges in CPS</p>
+                <p><b>Track-B</b> Cloud Integration and Ubiquitous Computing for Cyber-Physical Systems</p>
+                <p><b>Track-C</b> Network-wide Programming for CPS</p>
+                <p><b>Track-D</b> Machine-type Communications over Wireless (B5G/6G) Communications</p>
+                <p><b>Track-E</b> Cyber-physical systems for geoscience and remote sensing</p>
+                <p><b>Track-F</b> CPS Platform for Intelligent Transportation System</p>
+                <p><b>Track-G</b> Distributed Signal Processing for CPS</p>
+                <p><b>Track-H</b> Sensors, Actuators, and Applications in CPS</p>
+                <p><b>Track-I</b> Smart circuits and System design for CPS</p>
+                <p><b>Track-J</b> Cyber-Physical System Aspects in Antenna Design</p>
+                <p><b>Track-K</b> Photonics and Quantum Technologies</p>
+                <p><b>Track-L</b> Energy Management in Grids and Micro-grids</p>
+                <p><b>Track-M</b> CPS System Approach to Power Electronics</p>
+                <p><b>Track-N</b> Robotics and Smart Systems in Cyber Context</p>
+                <p><b>Track-O</b> Controls and Optimization for CPS</p>
+                <p><b>Track-P</b> Formal Validation, Verification, and Testing Methods for Cyber-Physical Systems</p>
+                <p><b>Track-Q</b> Network of Smart Appliances as CPS</p>
+                <p><b>Track-R</b> Cyber-Physical System Architecture for Smart Healthcare</p>
+                <p><b>Track-S</b> Influence of Social Networks on CPS</p>
+                <p><b>Track-T</b> Exploration in Cyber-Physical System Education</p>
             </div>
         </div>
         <!-- Service End -->
