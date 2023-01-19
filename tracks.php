@@ -39,7 +39,7 @@
 
         <!-- Service Start -->
         <div class="container-xxl py-5">
-            <div class="container py-5 px-lg-5">
+            <div class="container justify-content-center py-5 px-lg-5">
                 <div class="wow fadeInUp" data-wow-delay="0.1s">
                     <p class="section-title text-secondary justify-content-center"><span></span>IEEE CONECCT 2023<span></span></p>
                     <h1 class="text-center mb-5">Tracks</h1>
