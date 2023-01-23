@@ -124,7 +124,7 @@
                 <h5><b>Patron:</b></h5>
                 <p>Dr. M. R. Jayaram, Chairman of Gokula Education Foundation</p><br>
                 <h5><b>General Chair:</b></h5>
-                <p>Dr. Aloknath De, Executive Consulting Director - Samsung, and IEEE Chair 2023</p>
+                <p>Dr. Aloknath De, Executive Consulting Director - Samsung, and IEEE Bangalore Section Chair 2023</p>
                 <br>
                 <h5><b>Steering Committee:</b></h5>
                 <p>Prof. P Deepa Shenoy, University Visvesvaraya College of Engineering<br></p>
@@ -136,15 +136,15 @@
 
                 <h5><b>Organizing Chair:</b></h5>
                 <p>Dr. Chandrakanta Kumar,Scientist/Engineer-'SG', U R Rao Satellite Centre, ISRO<br></p>
-                <p>Dr. Shobha K R, MSRIT</p>
+                <p>Dr. Annapurna Patil, MSRIT<br></p>
                 <br>
                 <h5><b>Finance Chair:</b></h5>
                 <p>Dr. Abhishek Appaji, BMSCE, Treasurer, IEEE Bangalore Section<br></p>
                 <br>
 
                 <h5><b>Technical Program Committee</b></h5>
-                <p>Dr. Ramakrishnan Raman, Co-Chair, Honeywell, IEEE Bangalore Section<br></p>
-                <p>Dr. Annapurna Patil, MSRIT<br></p>
+                <p>Dr. Ramakrishnan Raman, Fellow - Honeywell, IEEE Bangalore Section<br></p>
+                <p>Dr. Shobha K R, MSRIT</p>
                 <br>
 
             </div>
@@ -157,7 +157,7 @@
                 <div class="wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="text-center mb-5">REGISTRATIONS</h1>
                 </div>
-                <div class="table-responsive-lg">
+                <!-- <div class="table-responsive-lg">
                     <table class="table table-bordered mb-5">
                         <tr>
                             <th>Paper Submission Date</th>
@@ -169,7 +169,7 @@
                             <td>40%</td>
                         </tr>
                     </table>
-                </div>
+                </div> -->
                 <div class="row justify-content-center">
                     <div class="col-md-3 col-12">
                         <div class="price_box active">
