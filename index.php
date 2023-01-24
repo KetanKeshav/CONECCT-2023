@@ -122,7 +122,10 @@
                 </div>
 
                 <h5><b>Patron:</b></h5>
-                <p>Dr. M. R. Jayaram, Chairman of Gokula Education Foundation</p><br>
+                <p>Dr. M. R. Jayaram, Chairman, Gokula Education Foundation</p>
+                <p>Sri. M. R. Seetharam, Vice Chairman, Gokula Education Foundation Director, Ramaiah Institute of Technology</p>
+                <p>Sri. M. R. Ramaiah Secretary, Gokula Education Foundation Director, Ramaiah Institute of Technology</p>
+                <p>Dr. N. V. R. Naidu Principal, Ramaiah Institute of Technology</p><br>
                 <h5><b>General Chair:</b></h5>
                 <p>Dr. Aloknath De, Executive Consulting Director - Samsung, and IEEE Bangalore Section Chair 2023</p>
                 <br>

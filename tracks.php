@@ -44,26 +44,136 @@
                     <p class="section-title text-secondary justify-content-center"><span></span>IEEE CONECCT 2023<span></span></p>
                     <h1 class="text-center mb-5">Tracks</h1>
                 </div>
-                <p><b>Track-A</b> Data Scale, Reliability, Security and Privacy Challenges in CPS</p>
-                <p><b>Track-B</b> Cloud Integration and Ubiquitous Computing for Cyber-Physical Systems</p>
-                <p><b>Track-C</b> Network-wide Programming for CPS</p>
-                <p><b>Track-D</b> Machine-type Communications over Wireless (B5G/6G) Communications</p>
-                <p><b>Track-E</b> Cyber-physical systems for geoscience and remote sensing</p>
-                <p><b>Track-F</b> CPS Platform for Intelligent Transportation System</p>
-                <p><b>Track-G</b> Distributed Signal Processing for CPS</p>
-                <p><b>Track-H</b> Sensors, Actuators, and Applications in CPS</p>
-                <p><b>Track-I</b> Smart circuits and System design for CPS</p>
-                <p><b>Track-J</b> Cyber-Physical System Aspects in Antenna Design</p>
-                <p><b>Track-K</b> Photonics and Quantum Technologies</p>
-                <p><b>Track-L</b> Energy Management in Grids and Micro-grids</p>
-                <p><b>Track-M</b> CPS System Approach to Power Electronics</p>
-                <p><b>Track-N</b> Robotics and Smart Systems in Cyber Context</p>
-                <p><b>Track-O</b> Controls and Optimization for CPS</p>
-                <p><b>Track-P</b> Formal Validation, Verification, and Testing Methods for Cyber-Physical Systems</p>
-                <p><b>Track-Q</b> Network of Smart Appliances as CPS</p>
-                <p><b>Track-R</b> Cyber-Physical System Architecture for Smart Healthcare</p>
-                <p><b>Track-S</b> Influence of Social Networks on CPS</p>
-                <p><b>Track-T</b> Exploration in Cyber-Physical System Education</p>
+                <div class="table-responsive-lg">
+                    <table class="table table-bordered">
+                        <tr>
+                            <th colspan="2">TRACKS</th>
+                            <th>TRACK CHAIR</th>
+                            <th>EMAIL</th>
+                        </tr>
+
+                        <tr>
+                            <th>Track - A</th>
+                            <td>Data Scale, Reliability, Security and Privacy Challenges in CPS</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>Track - B</th>
+                            <td>Cloud Integration and Ubiquitous Computing for Cyber-Physical Systems</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>Track - C</th>
+                            <td>Network-wide Programming for CPS</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>Track - D</th>
+                            <td>Machine-type Communications over Wireless (B5G/6G) Communications</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>Track - E</th>
+                            <td>Cyber-physical systems for geoscience and remote sensing</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>Track - F</th>
+                            <td>CPS Platform for Intelligent Transportation System</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>Track - G</th>
+                            <td>Distributed Signal Processing for CPS</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>Track - H</th>
+                            <td>Sensors, Actuators, and Applications in CPS</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>Track - I</th>
+                            <td>Smart circuits and System design for CPS</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>Track - J</th>
+                            <td>Cyber-Physical System Aspects in Antenna Design</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>Track - K</th>
+                            <td>Photonics and Quantum Technologies</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>Track - L</th>
+                            <td>Energy Management in Grids and Micro-grids</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>Track - M</th>
+                            <td>CPS System Approach to Power Electronics</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>Track - N</th>
+                            <td>Robotics and Smart Systems in Cyber Context</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>Track - O</th>
+                            <td>Controls and Optimization for CPS</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>Track - P</th>
+                            <td>Formal Validation, Verification, and Testing Methods for Cyber-Physical Systems</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>Track - Q</th>
+                            <td>Network of Smart Appliances as CPS</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>Track - R</th>
+                            <td>Cyber-Physical System Architecture for Smart Healthcare</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>Track - S</th>
+                            <td>Influence of Social Networks on CPS</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <th>Track - T</th>
+                            <td>Exploration in Cyber-Physical System Education</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                    </table>
+                </div>
             </div>
         </div>
         <!-- Service End -->
