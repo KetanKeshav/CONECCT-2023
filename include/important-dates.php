@@ -6,7 +6,7 @@
         </tr>
         <tr>
           <td>Full Paper Submission:</td>
-          <td>20 Feb, 2023</td>
+          <td>05 March, 2023</td>
         </tr>
         <tr>
           <td>Acceptance Notification:</td>
@@ -18,7 +18,7 @@
         </tr>
         <tr>
           <td>Tutorial Proposal Submission:</td>
-          <td>20 Feb, 2023</td>
+          <td>05 March, 2023</td>
         </tr>
         <tr>
           <td>Tutorial Acceptance Notification:</td>
