@@ -18,7 +18,7 @@
         </tr>
         <tr>
           <td>Tutorial Proposal Submission:</td>
-          <td>05 March, 2023</td>
+          <td>15 March, 2023</td>
         </tr>
         <tr>
           <td>Tutorial Acceptance Notification:</td>
