@@ -47,7 +47,7 @@
                 <div class="row justify-content-center" style="text-align: justify">
                     <p><b>Dear Researcher,</b><br><br>
 
-                        On behalf of IEEE CONECCT 2023 organizing committee, I take this opportunity to invite you to participate in this professionally enriching flagship technical conference of IEEE Bangalore Section. 8th edition of IEEE CONECCT will be organized on July 14-16,2023. CONECCT 2023 will have 20 Technical Tracks covering multiple domains. The eminent International speakers from US, Europe and premier National research and Industrial Organizations will deliver talks and conduct workshops and tutorials. During this international conference, the prospective researchers will have the opportunity to present their own work in the form of oral presentation, apart from taking the advantage of the talks by a number of international experts.<br><br>
+                        On behalf of IEEE CONECCT 2023 organizing committee, I take this opportunity to invite you to participate in this professionally enriching flagship technical conference of IEEE Bangalore Section. 9th edition of IEEE CONECCT will be organized on July 14-16,2023. CONECCT 2023 will have 20 Technical Tracks covering multiple domains. The eminent International speakers from US, Europe and premier National research and Industrial Organizations will deliver talks and conduct workshops and tutorials. During this international conference, the prospective researchers will have the opportunity to present their own work in the form of oral presentation, apart from taking the advantage of the talks by a number of international experts.<br><br>
                         Tutorial proposals are invited on topics pertaining to the theme of the conference. The proposal must not contain a sales presentation for the presenter or the presenter ’s company, and shall not contain proprietary data<br><br>
                         You are requested to upload your paper limited to maximum six pages to paper submission website.
 
@@ -132,7 +132,7 @@
                 <div class="wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="text-center mb-5">GUIDELINES TO AUTHORS</h1>
                 </div>
-                <p style="text-align: justify;">Below are some useful instructions to assist the authors to submit their papers for CONECCT 2022:</p>
+                <p style="text-align: justify;">Below are some useful instructions to assist the authors to submit their papers for CONECCT 2023:</p>
                 <br>
                 <h4>ORIGINALITY OF SUBMITTED PAPERS:</h4>
                 <br>
@@ -154,11 +154,10 @@
                 <p style="text-align: justify;"><b>NOTE:</b> Once the paper is submitted, we shall start reviewing it, so authors cannot update/resubmit the
                     paper. They should submit the final version, update/resubmissions are not allowed.
                     <br><br>
-                    The paper shall consist of original and previously unpublished work, including specific results. The
-                    ‘Introduction’ of the paper shall clearly indicate the unique aspects of the submission and how it is related
-                    to the previous work.
+                    The paper shall consist of original and previously unpublished work, including specific results. Literature review only papers are not accepted. The
+                    ‘Introduction’ of the paper shall clearly indicate the unique aspects of the submission and how it is related to the previous work.
                     <br><br>
-                    All paper submissions must be electronic, using IEEE Xplore compliant PDF format (*.pdf). Failure to do so may
+                    All final paper submissions must be electronic, using IEEE Xplore compliant PDF format (*.pdf). Failure to do so may
                     result in the rejection of the paper.
                     <br><br>
                     Type 3 fonts (bitmaps) will not be accepted. Authors can use the IEEE PDF eXpress to generate compliant PDF
@@ -171,7 +170,7 @@
                     The submitting authors may be required to create a Microsoft Conference Management Toolkit account before
                     uploading the paper (if the submitting author does not have a Microsoft Conference Management Toolkit
                     account). While uploading the paper, the authors should provide the title of the paper, an abstract of no more
-                    than 250 words and keywords in the respective text boxes in the paper submission page.
+                    than 250 words in the respective text boxes in the paper submission page.
                     <br><br>
                     Please note that all accepted papers that are registered and presented in the conference will be sent for
                     possible inclusion in IEEE Xplore. The authors must agree to the IEEE copyright conditions and sign the IEEE
