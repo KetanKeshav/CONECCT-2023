@@ -13,7 +13,7 @@
           <td>26 April, 2023</td>
         </tr>
         <tr>
-          <td>Acceptance Notification:</td>
+          <td>Final Manuscript Submission:</td>
           <td>22 May, 2023</td>
         </tr>
         <tr>

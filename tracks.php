@@ -173,7 +173,7 @@
                             <td></td>
                         </tr>
                         <tr>
-                            <th>Track - u</th>
+                            <th>Track - U</th>
                             <td>Track-U CPS for Aerospace Systems</td>
                             <td></td>
                             <td></td>
