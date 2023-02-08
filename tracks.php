@@ -55,128 +55,128 @@
                         <tr>
                             <th>Track - A</th>
                             <td>Data Scale, Reliability, Security and Privacy Challenges in CPS</td>
-                            <td></td>
-                            <td></td>
+                            <td>Dr. Nagaraj G. S.</td>
+                            <td>nagarajags@rvce.edu.in</td>
                         </tr>
                         <tr>
                             <th>Track - B</th>
                             <td>Cloud Integration and Ubiquitous Computing for Cyber-Physical Systems</td>
-                            <td></td>
-                            <td></td>
+                            <td>Dr. Vijaya Kumar B.P</td>
+                            <td>vijaykbp@msrit.edu</td>
                         </tr>
                         <tr>
                             <th>Track - C</th>
                             <td>Network-wide Programming for CPS</td>
-                            <td></td>
-                            <td></td>
+                            <td>Dr. Jagannadham Dulipala</td>
+                            <td>djagan@ieee.org</td>
                         </tr>
                         <tr>
                             <th>Track - D</th>
                             <td>Machine-type Communications over Wireless (B5G/6G) Communications</td>
-                            <td></td>
-                            <td></td>
+                            <td>Dr. Sheeba Kumari M</td>
+                            <td>sheebak@tejasnetworks.com</td>
                         </tr>
                         <tr>
                             <th>Track - E</th>
                             <td>Cyber-physical systems for geoscience and remote sensing</td>
-                            <td></td>
-                            <td></td>
+                            <td>Dr. Ujjwal Verma</td>
+                            <td>ujjwal.verma@manipal.edu</td>
                         </tr>
                         <tr>
                             <th>Track - F</th>
                             <td>CPS Platform for Intelligent Transportation System</td>
-                            <td></td>
-                            <td></td>
+                            <td>Dr Navin Kumar</td>
+                            <td>navinkumar@ieee.org</td>
                         </tr>
                         <tr>
                             <th>Track - G</th>
                             <td>Distributed Signal Processing for CPS</td>
-                            <td></td>
-                            <td></td>
+                            <td>Shailesh Sakri</td>
+                            <td>ssakri@ieee.org</td>
                         </tr>
                         <tr>
                             <th>Track - H</th>
                             <td>Sensors, Actuators, and Applications in CPS</td>
-                            <td></td>
-                            <td></td>
+                            <td>Dr Lakshmi KP</td>
+                            <td>kpl.ece@bmsce.ac.in</td>
                         </tr>
                         <tr>
                             <th>Track - I</th>
                             <td>Smart circuits and System design for CPS</td>
-                            <td></td>
-                            <td></td>
+                            <td>Ayan Datta</td>
+                            <td>ayan.datta@ieee.org</td>
                         </tr>
                         <tr>
                             <th>Track - J</th>
                             <td>Cyber-Physical System Aspects in Antenna Design</td>
-                            <td></td>
-                            <td></td>
+                            <td>Puneet Kumar Mishra</td>
+                            <td>mishra_puneet@ieee.org</td>
                         </tr>
                         <tr>
                             <th>Track - K</th>
                             <td>Photonics and Quantum Technologies</td>
-                            <td></td>
-                            <td></td>
+                            <td>Dr Triveni.C.L</td>
+                            <td>trivenicl@ieee.org</td>
                         </tr>
                         <tr>
                             <th>Track - L</th>
                             <td>Energy Management in Grids and Micro-grids</td>
-                            <td></td>
-                            <td></td>
+                            <td>Dr. Chandrasekhar Reddy Atla</td>
+                            <td>sekhar.atla@ieee.org</td>
                         </tr>
                         <tr>
                             <th>Track - M</th>
                             <td>CPS System Approach to Power Electronics</td>
-                            <td></td>
-                            <td></td>
+                            <td>Dr.K.Deepa</td>
+                            <td>deepa.kaliyaperumal@ieee.org</td>
                         </tr>
                         <tr>
                             <th>Track - N</th>
                             <td>Robotics and Smart Systems in Cyber Context</td>
-                            <td></td>
-                            <td></td>
+                            <td>Dr Shikha Tripathi</td>
+                            <td>shikha@pes.edu</td>
                         </tr>
                         <tr>
                             <th>Track - O</th>
                             <td>Controls and Optimization for CPS</td>
-                            <td></td>
-                            <td></td>
+                            <td>Dr Jayesh Barve</td>
+                            <td>barvejayesh@gmail.com</td>
                         </tr>
                         <tr>
                             <th>Track - P</th>
                             <td>Formal Validation, Verification, and Testing Methods for Cyber-Physical Systems</td>
-                            <td></td>
-                            <td></td>
+                            <td>Dr Yogananda Jeppu</td>
+                            <td>yvjeppu@gmail.com</td>
                         </tr>
                         <tr>
                             <th>Track - Q</th>
                             <td>Network of Smart Appliances as CPS</td>
-                            <td></td>
-                            <td></td>
+                            <td>Srikanth Itapu</td>
+                            <td>sri.hydblues@gmail.com</td>
                         </tr>
                         <tr>
                             <th>Track - R</th>
                             <td>Cyber-Physical System Architecture for Smart Healthcare</td>
-                            <td></td>
-                            <td></td>
+                            <td>Dr. Sriraam Natarajan</td>
+                            <td>dr.sriraam.natarajan@ieee.org</td>
                         </tr>
                         <tr>
                             <th>Track - S</th>
                             <td>Influence of Social Networks on CPS</td>
-                            <td></td>
-                            <td></td>
+                            <td>Dr G S Javed</td>
+                            <td>gsjaved@ieee.org</td>
                         </tr>
                         <tr>
                             <th>Track - T</th>
                             <td>Exploration in Cyber-Physical System Education</td>
-                            <td></td>
-                            <td></td>
+                            <td>Dr. R Venkata Siva Reddy  </td>
+                            <td>rvsreddy2007@gmail.com  </td>
                         </tr>
                         <tr>
                             <th>Track - U</th>
-                            <td>Track-U CPS for Aerospace Systems</td>
-                            <td></td>
-                            <td></td>
+                            <td>CPS for Aerospace Systems</td>
+                            <td>Puneet Kumar Mishra</td>
+                            <td>mishra_puneet@ieee.org</td>
                         </tr>
                     </table>
                 </div>
