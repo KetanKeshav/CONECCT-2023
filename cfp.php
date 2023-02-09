@@ -151,9 +151,9 @@
                     The authors are required to use the standard IEEE manuscript template for conferences. The Microsoft Word
                     template in can be downloaded from IEEE conference template page: <a href="https://www.ieee.org/conferences/publishing/templates.html" style="color:#000000">Click here</a>
                 </p>
-                <p style="text-align: justify;"><b>NOTE:</b> Once the paper is submitted, we shall start reviewing it, so authors cannot update/resubmit the
+                <!-- <p style="text-align: justify;"><b>NOTE:</b> Once the paper is submitted, we shall start reviewing it, so authors cannot update/resubmit the
                     paper. They should submit the final version, update/resubmissions are not allowed.
-                    <br><br>
+                    <br><br> -->
                     The paper shall consist of original and previously unpublished work, including specific results. Literature review only papers are not accepted. The
                     ‘Introduction’ of the paper shall clearly indicate the unique aspects of the submission and how it is related to the previous work.
                     <br><br>
