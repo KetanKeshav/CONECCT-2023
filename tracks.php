@@ -204,7 +204,6 @@
                             <td>Puneet Kumar Mishra</td>
                             <td>mishra_puneet@ieee.org</td>
                             <td><a href="./downloads/Track U.pdf" download="CONECCT 2023 CFP Track - U" class="btn btn-primary py-sm-3 px-sm-5 rounded-pill">Download</a></td>
-                            <!-- <td><a href="./downloads/Track U.pdf" download="CONECCT 2023 CFP Track - U" class="btn btn-primary py-sm-3 px-sm-5 rounded-pill">Download</a></td> -->
                         </tr>
                     </table>
                 </div>
