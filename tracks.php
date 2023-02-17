@@ -93,8 +93,7 @@
                             <td>CPS Platform for Intelligent Transportation System</td>
                             <td>Dr Navin Kumar</td>
                             <td>navinkumar@ieee.org</td>
-                            <td>-</td>
-                            <!-- <td><a href="./downloads/Track F.pdf" download="CONECCT 2023 CFP Track - F" class="btn btn-primary py-sm-3 px-sm-5 rounded-pill">Download</a></td> -->
+                            <td><a href="./downloads/Track F.pdf" download="CONECCT 2023 CFP Track - F" class="btn btn-primary py-sm-3 px-sm-5 rounded-pill">Download</a></td>
                         </tr>
                         <tr>
                             <th>Track - G</th>
