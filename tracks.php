@@ -100,8 +100,7 @@
                             <td>Distributed Signal Processing for CPS</td>
                             <td>Shailesh Sakri</td>
                             <td>ssakri@ieee.org</td>
-                            <td>-</td>
-                            <!-- <td><a href="./downloads/Track G.pdf" download="CONECCT 2023 CFP Track - G" class="btn btn-primary py-sm-3 px-sm-5 rounded-pill">Download</a></td> -->
+                            <td><a href="./downloads/Track G.pdf" download="CONECCT 2023 CFP Track - G" class="btn btn-primary py-sm-3 px-sm-5 rounded-pill">Download</a></td>
                         </tr>
                         <tr>
                             <th>Track - H</th>
@@ -150,8 +149,7 @@
                             <td>Robotics and Smart Systems in Cyber Context</td>
                             <td>Dr Shikha Tripathi</td>
                             <td>shikha@pes.edu</td>
-                            <td>-</td>
-                            <!-- <td><a href="./downloads/Track N.pdf" download="CONECCT 2023 CFP Track - N" class="btn btn-primary py-sm-3 px-sm-5 rounded-pill">Download</a></td> -->
+                            <td><a href="./downloads/Track N.png" download="CONECCT 2023 CFP Track - N" class="btn btn-primary py-sm-3 px-sm-5 rounded-pill">Download</a></td>
                         </tr>
                         <tr>
                             <th>Track - O</th>
