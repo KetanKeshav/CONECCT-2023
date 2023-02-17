@@ -156,8 +156,7 @@
                             <td>Controls and Optimization for CPS</td>
                             <td>Dr Jayesh Barve</td>
                             <td>barvejayesh@gmail.com</td>
-                            <td>-</td>
-                            <!-- <td><a href="./downloads/Track O.pdf" download="CONECCT 2023 CFP Track - O" class="btn btn-primary py-sm-3 px-sm-5 rounded-pill">Download</a></td> -->
+                            <td><a href="./downloads/Track O.pdf" download="CONECCT 2023 CFP Track - O" class="btn btn-primary py-sm-3 px-sm-5 rounded-pill">Download</a></td>
                         </tr>
                         <tr>
                             <th>Track - P</th>
