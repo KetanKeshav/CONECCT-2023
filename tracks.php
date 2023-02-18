@@ -177,8 +177,7 @@
                             <td>Cyber-Physical System Architecture for Smart Healthcare</td>
                             <td>Dr. Sriraam Natarajan</td>
                             <td>dr.sriraam.natarajan@ieee.org</td>
-                            <td>-</td>
-                            <!-- <td><a href="./downloads/Track R.pdf" download="CONECCT 2023 CFP Track - R" class="btn btn-primary py-sm-3 px-sm-5 rounded-pill">Download</a></td> -->
+                            <td><a href="./downloads/Track R.pdf" download="CONECCT 2023 CFP Track - R" class="btn btn-primary py-sm-3 px-sm-5 rounded-pill">Download</a></td>
                         </tr>
                         <tr>
                             <th>Track - S</th>
