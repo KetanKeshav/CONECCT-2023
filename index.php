@@ -108,6 +108,9 @@
                     <div class="col-md-3 text-md-right text-center">
                         <a href="https://cmt3.research.microsoft.com/CONECCT2023/" target="blank" class="btn btn-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Submit Your Paper</a>
                     </div>
+                    <div class="col-md-3 text-md-right text-center">
+                        <a href="https://bit.ly/CONECCT2023Tutorials" target="blank" class="btn btn-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Tutorial Submission</a>
+                    </div>
                 </center>
 
             </div>

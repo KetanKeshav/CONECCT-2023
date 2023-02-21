@@ -47,7 +47,7 @@
                 <div class="row justify-content-center" style="text-align: justify">
                     <p><b>Dear Researcher,</b><br><br>
 
-                        On behalf of IEEE CONECCT 2023 organizing committee, I take this opportunity to invite you to participate in this professionally enriching flagship technical conference of IEEE Bangalore Section. 9th edition of IEEE CONECCT will be organized on July 14-16,2023. CONECCT 2023 will have 20 Technical Tracks covering multiple domains. The eminent International speakers from US, Europe and premier National research and Industrial Organizations will deliver talks and conduct workshops and tutorials. During this international conference, the prospective researchers will have the opportunity to present their own work in the form of oral presentation, apart from taking the advantage of the talks by a number of international experts.<br><br>
+                        On behalf of IEEE CONECCT 2023 organizing committee, I take this opportunity to invite you to participate in this professionally enriching flagship technical conference of IEEE Bangalore Section. 9th edition of IEEE CONECCT will be organized on July 14-16,2023. CONECCT 2023 will have 21 Technical Tracks covering multiple domains. The eminent International speakers from US, Europe and premier National research and Industrial Organizations will deliver talks and conduct workshops and tutorials. During this international conference, the prospective researchers will have the opportunity to present their own work in the form of oral presentation, apart from taking the advantage of the talks by a number of international experts.<br><br>
                         Tutorial proposals are invited on topics pertaining to the theme of the conference. The proposal must not contain a sales presentation for the presenter or the presenter ’s company, and shall not contain proprietary data<br><br>
                         You are requested to upload your paper limited to maximum six pages to paper submission website.
 
@@ -180,6 +180,9 @@
                 <center>
                     <div class="col-md-3 text-md-right text-center">
                         <a href="https://cmt3.research.microsoft.com/CONECCT2023/" target="blank" class="btn btn-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Submit Your Paper</a>
+                    </div>
+                    <div class="col-md-3 text-md-right text-center">
+                        <a href="https://bit.ly/CONECCT2023Tutorials" target="blank" class="btn btn-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Tutorial Submission</a>
                     </div>
                 </center>
             </div>
