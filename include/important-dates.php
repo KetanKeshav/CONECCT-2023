@@ -6,7 +6,7 @@
         </tr>
         <tr>
           <td>Full Paper Submission:</td>
-          <td>05 March, 2023 (Hard deadline, no further extensions)</td>
+          <td>19 March, 2023 (Hard deadline, no further extensions)</td>
         </tr>
         <tr>
           <td>Acceptance Notification:</td>
