@@ -15,7 +15,7 @@
                 <a href="tracks.php" class="nav-item nav-link  <?php if($page=="tracks") echo 'active'?>">Tracks</a>
                 <a href="cfp.php" class="nav-item nav-link  <?php if($page=="cfp") echo 'active'?>">Call For Papers</a>
             </div>
-            <a href="" class="btn rounded-pill py-2 px-4 ms-3 d-none d-lg-block">Register Now</a>
+            <a href="" class="btn rounded-pill py-2 px-4 ms-3 d-none d-lg-block">Registrations opening soon</a>
         </div>
     </nav>
 </div>
