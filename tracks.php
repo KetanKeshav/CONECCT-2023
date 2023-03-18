@@ -62,7 +62,7 @@
                         </tr>
                         <tr>
                             <th>Track - B</th>
-                            <td>Cloud Integration and Ubiquitous Computing for Cyber-Physical Systems</td>
+                            <td>Cloud Integration and Cognitive Computing for Cyber-Physical Systems</td>
                             <td>Dr. Vijaya Kumar B.P</td>
                             <td>vijaykbp@msrit.edu</td>
                             <td><a href="./downloads/Track B.pdf" download="CONECCT 2023 CFP Track - B" class="btn btn-primary py-sm-3 px-sm-5 rounded-pill">Download</a></td>
