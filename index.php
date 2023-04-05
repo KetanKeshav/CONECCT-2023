@@ -389,16 +389,13 @@
                     <div class="row justify-content-center">
                         <div class="col-md-3 col-12">
                             <div class="price_box active">
-                                <!-- <div class="price_highlight">
-                                    recommended
-                                </div> -->
                                 <div class="price_header">
                                     <h5>
                                         Tutorial
                                     </h5>
                                 </div>
                                 <div class="price_tag">
-                                    <h5>Rs 6000</h5>
+                                    <h5>Rs 600</h5>
                                     <hr>
                                     <h5>
                                         Additional Delegate
