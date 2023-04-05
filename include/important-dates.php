@@ -10,7 +10,15 @@
         </tr>
         <tr>
           <td>Acceptance Notification:</td>
-          <td>26 April, 2023</td>
+          <td>1 May, 2023</td>
+        </tr>
+        <tr>
+          <td>Closing Early Bird Registration</td>
+          <td>22 May, 2023</td>
+        </tr>
+        <tr>
+          <td>Registration closes</td>
+          <td>30 June, 2023</td>
         </tr>
         <tr>
           <td>Final Manuscript Submission:</td>

@@ -385,10 +385,39 @@
                             </div>
                         </div>
 
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="col-md-3 col-12">
+                            <div class="price_box active">
+                                <!-- <div class="price_highlight">
+                                    recommended
+                                </div> -->
+                                <div class="price_header">
+                                    <h5>
+                                        Tutorial
+                                    </h5>
+                                </div>
+                                <div class="price_tag">
+                                    <h5>Rs 6000</h5>
+                                    <hr>
+                                    <h5>
+                                        Additional Delegate
+                                    </h5>
+                                </div>
+                                <div class="price_tag">
+                                    <h5>Rs 2500</h5>
+                                </div>
+                                <div class="price_features">
+                                </div>
+                                <!-- <div class="price_footer">
+<a href="https://in.explara.com/e/ieee-conecct-2023" class="btn btn-primary btn-rounded">Register</a>
+</div> -->
+                            </div>
+                        </div>
+
                         <h3 style="text-align: center;">Registration fee is including GST(18%)<h3>
 
                     </div>
-
                 </div>
             </div>
         </div>
