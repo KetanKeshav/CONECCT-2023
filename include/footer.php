@@ -50,7 +50,7 @@
                 </div>
                 <div class="col-md-6 text-center text-md-end">
                     <div class="footer-menu">
-                        <p><i class="fa fa-phone-alt me-3"></i>180010334533 &nbsp;&nbsp; <i class="fa fa-envelope me-3"></i>conecct2022@ieeebangalore.org</p>
+                        <p><i class="fa fa-phone-alt me-3"></i>180010334533 &nbsp;&nbsp; <i class="fa fa-envelope me-3"></i>conecct2023@ieeebangalore.org</p>
                     </div>
                 </div>
             </div>
