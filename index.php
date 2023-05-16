@@ -441,54 +441,7 @@
 </div>
                         </div>
                     </div>
-                    <div class="col-md-3 col-12">
-                        <div class="price_box">
-                            <div class="price_header">
-                                <h5>
-                                    Early Bird Non-IEEE Student (Indian)
-                                </h5>
-                            </div>
-                            <div class="price_tag">
-                                <h5>₹ 4400 </h5>
-                                <hr>
-                                <h5>
-                                    Regular Non-IEEE Student (Indian)
-                                </h5>
-                            </div>
-                            <div class="price_tag">
-                                <h5>₹ 5300 </h5>
-                            </div>
-                            <div class="price_features">
-                            </div>
-                            <div class="price_footer">
-<a href="https://in.explara.com/e/ieee--conecct-2023" class="btn btn-primary btn-rounded">Register</a> 
-</div>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-12">
-                        <div class="price_box">
-                            <div class="price_header">
-                                <h5>
-                                    Early Bird Non-IEEE Member (Indian)
-                                </h5>
-                            </div>
-                            <div class="price_tag">
-                                <h5>₹ 7200 </h5>
-                                <hr>
-                                <h5>
-                                    Regular Non-IEEE Member (Indian)
-                                </h5>
-                            </div>
-                            <div class="price_tag">
-                                <h5>₹ 8800 </h5>
-                            </div>
-                            <div class="price_features">
-                            </div>
-                            <div class="price_footer">
-<a href="https://in.explara.com/e/ieee--conecct-2023" class="btn btn-primary btn-rounded">Register</a>
-</div>
-                        </div>
-                    </div>
+                    
 
                     
                         <h3 style="text-align: center;">Registration fee is including GST(18%)<h3>
