@@ -423,11 +423,11 @@
 </div>
                         </div>
                     </div>
-                    <h4 style="text-align: center;">NOTE: 
-                    <br>Additional Delegate is for co-authors of accepted papers that have one of the authors paying the full registration fees, and for accompanying adult family members of a delegate who is paying the full registration fees. <br>Kindly note that registrations under this category does not provide delegate kit and banquet dinner. To avail delegate kit and  banquet dinner, a separate registration by paying full registration fees is required</h4>
-                    <h4 style="text-align: center;">Kindly note that Tutorials registrations under this category does not provide delegate kit and banquet dinner. To avail delegate kit and banquet dinner, a separate registration by paying full registration fees is required</h4>
+                    <h4 style="text-align: justify;">NOTE: 
+                    <br>1. Additional Delegate is for co-authors of accepted papers that have one of the authors paying the full registration fees, and for accompanying adult family members of a delegate who is paying the full registration fees. <br>Kindly note that registrations under this category does not provide delegate kit and banquet dinner. To avail delegate kit and  banquet dinner, a separate registration by paying full registration fees is required</h4>
+                    <h4 style="text-align: justify;">2. Kindly note that Tutorials registrations under this category does not provide delegate kit and banquet dinner. To avail delegate kit and banquet dinner, a separate registration by paying full registration fees is required</h4>
                     <br>
-                    <h3 style="text-align: center;">Registration fee is including GST(18%)<h3>
+                    <h3 style="text-align: justify;">3. Registration fee is including GST(18%)<h3>
 
                     </div>
                 </div>
