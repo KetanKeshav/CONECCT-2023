@@ -386,42 +386,7 @@
                         </div>
 
                     </div>
-                    <div class="row justify-content-center">
-                        <div class="col-md-3 col-12">
-                            <div class="price_box active">
-                                <div class="price_header">
-                                    <h5>
-                                        Tutorial
-                                    </h5>
-                                </div>
-                                <div class="price_tag">
-                                    <h5>Rs 600</h5>
-                                </div>
-                                <div class="price_features">
-                                </div>
-                                <div class="price_footer">
-<a href="https://in.explara.com/e/ieee--conecct-2023" class="btn btn-primary btn-rounded">Register</a>
-</div>
-                            </div>
-                            <div class="col-md-3 col-12">
-                            <div class="price_box">
-                                <div class="price_header">
-                                    <h5>
-                                        Additional Delegate (This is for co-authors of accepted papers that have one of the authors paying the full registration fees, and for accompanying adult family members of a delegate who is paying the full registration fees. Kindly note that registrations under this category does not provide delegate kit and banquet dinner. To avail delegate kit and  banquet dinner, a separate registration by paying full registration fees is required)
-                                    </h5>
-                                </div>
-                                <div class="price_tag">
-                                    <h5>Rs 2500</h5>
-                                </div>
-                                <div class="price_features">
-                                </div>
-                                <div class="price_footer">
-<a href="https://in.explara.com/e/ieee--conecct-2023" class="btn btn-primary btn-rounded">Register</a>
-</div>
-                            </div>
-                        </div>
-                        </div>
-
+                    
                         <h3 style="text-align: center;">Registration fee is including GST(18%)<h3>
 
                     </div>
