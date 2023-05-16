@@ -427,7 +427,8 @@
                         </div>
                     </div>
                     <h3 style="text-align: center;">NOTE: Additional Delegate is for co-authors of accepted papers that have one of the authors paying the full registration fees, and for accompanying adult family members of a delegate who is paying the full registration fees. Kindly note that registrations under this category does not provide delegate kit and banquet dinner. To avail delegate kit and  banquet dinner, a separate registration by paying full registration fees is required</h3>
-                        <h3 style="text-align: center;">Registration fee is including GST(18%)<h3>
+                    <br>
+                    <h3 style="text-align: center;">Registration fee is including GST(18%)<h3>
 
                     </div>
                 </div>
