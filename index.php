@@ -394,18 +394,11 @@
                             </div>
                             <div class="price_header">
                                 <h5>
-                                    Early Bird IEEE Student (Indian)
+                                  Tutorial
                                 </h5>
                             </div>
                             <div class="price_tag">
-                                <h5>₹ 2500 </h5>
-                                <hr>
-                                <h5>
-                                    Regular IEEE Student (Indian)
-                                </h5>
-                            </div>
-                            <div class="price_tag">
-                                <h5>₹ 3500 </h5>
+                                <h5>₹ 600 </h5>
                             </div>
                             <div class="price_features">
                             </div>
@@ -416,24 +409,16 @@
                     </div>
                     <div class="col-md-3 col-12">
                         <div class="price_box">
-                            <div class="price_highlight">
-                                recommended
-                            </div>
                             <div class="price_header">
                                 <h5>
-                                    Early Bird IEEE Member (Indian)
+                                Additional Delegate (This is for co-authors of accepted papers that have one of the authors paying the full registration fees, and for accompanying adult family members of a delegate who is paying the full registration fees. Kindly note that registrations under this category does not provide delegate kit and banquet dinner. To avail delegate kit and  banquet dinner, a separate registration by paying full registration fees is required)
                                 </h5>
                             </div>
                             <div class="price_tag">
-                                <h5>₹ 5300 </h5>
-                                <hr>
-                                <h5>
-                                    Regular IEEE Member (Indian)
-                                </h5>
+                                <h5>₹ 2500 </h5>
+                               
                             </div>
-                            <div class="price_tag">
-                                <h5>₹ 6600 </h5>
-                            </div>
+                            
                             <div class="price_features">
                             </div>
                             <div class="price_footer">
@@ -441,8 +426,6 @@
 </div>
                         </div>
                     </div>
-                    
-
                     
                         <h3 style="text-align: center;">Registration fee is including GST(18%)<h3>
 
