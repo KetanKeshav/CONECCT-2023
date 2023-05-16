@@ -389,9 +389,6 @@
                     <div class="row justify-content-center">
                     <div class="col-md-3 col-12">
                         <div class="price_box active">
-                            <div class="price_highlight">
-                                recommended
-                            </div>
                             <div class="price_header">
                                 <h5>
                                   Tutorial
