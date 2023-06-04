@@ -12,6 +12,7 @@
             <div class="navbar-nav mx-auto py-0">
                 <a href="index.php" class="nav-item nav-link <?php if($page=="index") echo 'active'?>">Home</a>
                 <a href="index.php#about" class="nav-item nav-link">About Us</a>
+                <a href="oc.php" class="nav-item nav-link  <?php if($page=="oc") echo 'active'?>">Organizing Committee</a>
                 <a href="tracks.php" class="nav-item nav-link  <?php if($page=="tracks") echo 'active'?>">Tracks</a>
                 <a href="cfp.php" class="nav-item nav-link  <?php if($page=="cfp") echo 'active'?>">Call For Papers</a>
                 <a href="./downloads/AuthorInstructions-CameraReady.pdf" class="nav-item nav-link" download="Instructions for authors of accepted papers">Instructions for authors of accepted papers</a>

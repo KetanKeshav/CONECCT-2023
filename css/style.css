@@ -100,10 +100,10 @@ h6,
 
 .navbar-light .navbar-nav .nav-link {
     position: relative;
-    margin-right: 25px;
+    margin-right: 10px;
     padding: 35px 0;
     font-family: 'Jost', sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 500;
     color: var(--light) !important;
     outline: none;
