@@ -103,36 +103,38 @@
                     <p class="section-title text-secondary justify-content-center"><span></span>CONECCT'23<span></span></p>
                     <h1 class="text-center mb-5">Speakers</h1>
                 </div>
-                <div class="row g-4">
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="team-item bg-light rounded">
                             <div class="text-center border-bottom p-4">
-                                <img class="img-fluid rounded-circle mb-4" src="img/speakers/1.webp" alt="">
-                                <h5>Dr Matt Nielsen</h5>
-                                <span>GE Research USA</span>
+                                <img class="img-fluid rounded-circle mb-4" src="img/speakers/5.webp" alt="">
+                                <h5>Prof Saifur Rahman</h5>
+                                <span>Virginia Tech Advanced Research Inst.</span>
+                                <span>2023 IEEE President & CEO</span>
                             </div>
                             <div class="d-flex justify-content-center p-4">
-                                <a class="btn btn-square mx-1" href="https://www.linkedin.com/in/matt-nielsen-42435b1b" target = "_blank"><i class="fab fa-linkedin-in"></i></a>
-                                <button class="btn btn-square mx-1" data-bs-toggle="modal" data-bs-target="#speaker1-modal"><i class="fas fa-info-circle"></i></button>
+                                <a class="btn btn-square mx-1" href="https://www.linkedin.com/in/saifur-rahman-vt" target = "_blank"><i class="fab fa-linkedin-in"></i></a>
+                                <button class="btn btn-square mx-1" data-bs-toggle="modal" data-bs-target="#speaker5-modal"><i class="fas fa-info-circle"></i></button>
                             </div>
                         </div>
                     </div>
+                
                     <!-- Modal for Speaker 1 -->
-                    <div class="modal fade" id="speaker1-modal" tabindex="-1" role="dialog" aria-labelledby="speaker1-modal-label" aria-hidden="true">
+                    <div class="modal fade" id="speaker4-modal" tabindex="-1" role="dialog" aria-labelledby="speaker4-modal-label" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-centered" role="document">
                         <div class="modal-content">
                             <div class="modal-header">
-                            <h5 class="modal-title" id="speaker1-modal-label">Dr Matt Nielsen</h5>
+                            <h5 class="modal-title" id="speaker4-modal-label">Mr Chetan Kumar S</h5>
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                             </div>
                             <div class="modal-body">
                             <!-- Add the speaker's information and abstract here -->
                             <h6>Speaker Information</h6>
-                            <p>Matt attended undergraduate school at Alma College. In 1999, he received his PhD in Physics from Rensselaer Polytechnic Institute (RPI), located in Troy, NY. During his dissertation research, Matt worked with General Electric to help develop electronic material manufacturing processes for high frequency RF applications. After graduation, he was able to join full-time and worked on a variety of efforts from electronic packaging to wide band gap semiconductors. Matt later led a large research program developing technology in photonics, more specifically ultra-fast optical communications and three dimensional optical storage materials and systems. Matt was also Lab Manager for the Electrophysics and Materials organization, where he initiated new efforts in bio-electronics and monitoring applications. Matt currently has the position of Principal Scientist with a research focus on Digital Twin anc specifically computer modeling/simulation of physical assets, using physics and machine learning nethods. He is leading several programs that combine machine learning, advanced controls theor and domain knowledge to create a new layer of cyber-security for critical infrastructure assets called igital Ghost. Current applications include natural gas power generation equipment, pipeline compressor stations and large-scale pipeline systems. Dr Nielsen has 42 filed and 27 issued patents. He is a Six Sigma Master Blackbelt and TRIZ Level 3 certified.</p>
+                            <p>Chetan Kumar S is Sr. Director of Engineering Mavenir System, building products for 5G technology. Before Mavenir, Chetan was Co-Founder and C.E.O at AiKaan Labs, which Ather Energy acquired.  At AiKaan labs, Chetan and his team were building a machine intelligence-driven application orchestration and device management for edge computing. Chetan is a tech blogger, author, and global speaker. Chetan has over 20 years of experience working at networking giants like Cisco Systems, Juniper Networks, Alcatel-Lucent, and startups. He was one of the lead investigators in Cisco’s pioneer award-winning encrypted traffic analytics. Chetan obtained master's degree in engineering from the Indian Institute of Science, and bachelor's degree in engineering from the University of Mysore. Has (co-)authored 8 papers published in various international conferences and proceedings, and proposed two internet drafts to a standards body. Has four patents in voice-over IP, Netflow, and Edge computing. Business Advisor to Aham Robotics, ART Park, Indian Institute of Science Member of Cyber Security committee, Bangalore Chamber of Commerce and Industry (BCIC).</p>
                             <!-- Add more speaker information if needed -->
 
-                            <h6>Talk - Digital Ghost - A New Layer of Cyber-Physical Security for Natural Gas Power Plants (Authors: Matthew Nielsen, Masoud Abbaszadeh, Subhrajit Roychowdhury, Justin John)</h6>
-                            <p>GE's Digital Ghost, which acts in addition to common IT/OT cybersecurity methods, monitors an asset's behavior comparing it to sophisticated computer models called Digital Twins. The internal algorithms within the Ghost will alert the asset operator and cybersecurity specialists if a malicious attack or physical fault is underway. Additional Ghost features can indicate the point of attack within the ystem and in some cases provide a layer of resiliency by neutralizing the effects allowing the asset tc continue operating through an attack. GE will describe the basic principles behind Digital Ghost and give operational examples, including a demonstration test using a 500+ MW gas turbine.</p>
+                            <h6>Talk - Edge AI, for next generation AI applications ?</h6>
+                            <p>28.77 million terabytes of data are generated every day, according to the latest estimates. The AI tools like chatGPT are evolving at an exponential rate to be able to process this huge amount of data and create insightful results. The next-generation AI applications might need more than the cloud AI model. The applications might need real-time decision-making. Edge AI, on the other hand, brings AI processing closer to the source of data, enabling faster decision-making, reduced latency, and increased privacy and security. This talk will explore the potential of Edge AI. This talk we will explore the next-generation AI applications and their requirements. We will try to understand the need of compute resources for these applications and look at the relevance of Edge AI.</p>
                             <!-- Add more abstract content if needed -->
                             </div>
                         </div>
@@ -224,22 +226,37 @@
                         </div>
                     </div>
 
+                    <div class="row g-4">
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="team-item bg-light rounded">
+                            <div class="text-center border-bottom p-4">
+                                <img class="img-fluid rounded-circle mb-4" src="img/speakers/1.webp" alt="">
+                                <h5>Dr Matt Nielsen</h5>
+                                <span>GE Research USA</span>
+                            </div>
+                            <div class="d-flex justify-content-center p-4">
+                                <a class="btn btn-square mx-1" href="https://www.linkedin.com/in/matt-nielsen-42435b1b" target = "_blank"><i class="fab fa-linkedin-in"></i></a>
+                                <button class="btn btn-square mx-1" data-bs-toggle="modal" data-bs-target="#speaker1-modal"><i class="fas fa-info-circle"></i></button>
+                            </div>
+                        </div>
+                    </div>
                     <!-- Modal for Speaker 4 -->
-                    <div class="modal fade" id="speaker4-modal" tabindex="-1" role="dialog" aria-labelledby="speaker4-modal-label" aria-hidden="true">
+
+                    <div class="modal fade" id="speaker1-modal" tabindex="-1" role="dialog" aria-labelledby="speaker1-modal-label" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-centered" role="document">
                         <div class="modal-content">
                             <div class="modal-header">
-                            <h5 class="modal-title" id="speaker4-modal-label">Mr Chetan Kumar S</h5>
+                            <h5 class="modal-title" id="speaker1-modal-label">Dr Matt Nielsen</h5>
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                             </div>
                             <div class="modal-body">
                             <!-- Add the speaker's information and abstract here -->
                             <h6>Speaker Information</h6>
-                            <p>Chetan Kumar S is Sr. Director of Engineering Mavenir System, building products for 5G technology. Before Mavenir, Chetan was Co-Founder and C.E.O at AiKaan Labs, which Ather Energy acquired.  At AiKaan labs, Chetan and his team were building a machine intelligence-driven application orchestration and device management for edge computing. Chetan is a tech blogger, author, and global speaker. Chetan has over 20 years of experience working at networking giants like Cisco Systems, Juniper Networks, Alcatel-Lucent, and startups. He was one of the lead investigators in Cisco’s pioneer award-winning encrypted traffic analytics. Chetan obtained master's degree in engineering from the Indian Institute of Science, and bachelor's degree in engineering from the University of Mysore. Has (co-)authored 8 papers published in various international conferences and proceedings, and proposed two internet drafts to a standards body. Has four patents in voice-over IP, Netflow, and Edge computing. Business Advisor to Aham Robotics, ART Park, Indian Institute of Science Member of Cyber Security committee, Bangalore Chamber of Commerce and Industry (BCIC).</p>
+                            <p>Matt attended undergraduate school at Alma College. In 1999, he received his PhD in Physics from Rensselaer Polytechnic Institute (RPI), located in Troy, NY. During his dissertation research, Matt worked with General Electric to help develop electronic material manufacturing processes for high frequency RF applications. After graduation, he was able to join full-time and worked on a variety of efforts from electronic packaging to wide band gap semiconductors. Matt later led a large research program developing technology in photonics, more specifically ultra-fast optical communications and three dimensional optical storage materials and systems. Matt was also Lab Manager for the Electrophysics and Materials organization, where he initiated new efforts in bio-electronics and monitoring applications. Matt currently has the position of Principal Scientist with a research focus on Digital Twin anc specifically computer modeling/simulation of physical assets, using physics and machine learning nethods. He is leading several programs that combine machine learning, advanced controls theor and domain knowledge to create a new layer of cyber-security for critical infrastructure assets called igital Ghost. Current applications include natural gas power generation equipment, pipeline compressor stations and large-scale pipeline systems. Dr Nielsen has 42 filed and 27 issued patents. He is a Six Sigma Master Blackbelt and TRIZ Level 3 certified.</p>
                             <!-- Add more speaker information if needed -->
 
-                            <h6>Talk - Edge AI, for next generation AI applications ?</h6>
-                            <p>28.77 million terabytes of data are generated every day, according to the latest estimates. The AI tools like chatGPT are evolving at an exponential rate to be able to process this huge amount of data and create insightful results. The next-generation AI applications might need more than the cloud AI model. The applications might need real-time decision-making. Edge AI, on the other hand, brings AI processing closer to the source of data, enabling faster decision-making, reduced latency, and increased privacy and security. This talk will explore the potential of Edge AI. This talk we will explore the next-generation AI applications and their requirements. We will try to understand the need of compute resources for these applications and look at the relevance of Edge AI.</p>
+                            <h6>Talk - Digital Ghost - A New Layer of Cyber-Physical Security for Natural Gas Power Plants (Authors: Matthew Nielsen, Masoud Abbaszadeh, Subhrajit Roychowdhury, Justin John)</h6>
+                            <p>GE's Digital Ghost, which acts in addition to common IT/OT cybersecurity methods, monitors an asset's behavior comparing it to sophisticated computer models called Digital Twins. The internal algorithms within the Ghost will alert the asset operator and cybersecurity specialists if a malicious attack or physical fault is underway. Additional Ghost features can indicate the point of attack within the ystem and in some cases provide a layer of resiliency by neutralizing the effects allowing the asset tc continue operating through an attack. GE will describe the basic principles behind Digital Ghost and give operational examples, including a demonstration test using a 500+ MW gas turbine.</p>
                             <!-- Add more abstract content if needed -->
                             </div>
                         </div>
@@ -247,19 +264,6 @@
                     </div>
                     <!-- End of Speaker 4 Modal -->
 
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                        <div class="team-item bg-light rounded">
-                            <div class="text-center border-bottom p-4">
-                                <img class="img-fluid rounded-circle mb-4" src="img/speakers/5.webp" alt="">
-                                <h5>Prof Saifur Rahman</h5>
-                                <span>Virginia Tech Advanced Research Inst.</span>
-                            </div>
-                            <div class="d-flex justify-content-center p-4">
-                                <a class="btn btn-square mx-1" href="https://www.linkedin.com/in/saifur-rahman-vt" target = "_blank"><i class="fab fa-linkedin-in"></i></a>
-                                <button class="btn btn-square mx-1" data-bs-toggle="modal" data-bs-target="#speaker5-modal"><i class="fas fa-info-circle"></i></button>
-                            </div>
-                        </div>
-                    </div>
 
                     <!-- Modal for Speaker 5 -->
                     <div class="modal fade" id="speaker5-modal" tabindex="-1" role="dialog" aria-labelledby="speaker5-modal-label" aria-hidden="true">
