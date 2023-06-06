@@ -109,7 +109,7 @@
                             <div class="text-center border-bottom p-4">
                                 <img class="img-fluid rounded-circle mb-4" src="img/speakers/5.webp" alt="">
                                 <h5>Prof Saifur Rahman</h5>
-                                <span>Virginia Tech Advanced Research Inst.</span>
+                                <span>Virginia Tech Advanced Research Inst.</span><br>
                                 <span>2023 IEEE President & CEO</span>
                             </div>
                             <div class="d-flex justify-content-center p-4">
