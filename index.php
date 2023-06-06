@@ -140,7 +140,7 @@
                     </div>
                     <!-- End of Speaker 1 Modal -->
 
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <!-- <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="team-item bg-light rounded">
                             <div class="text-center border-bottom p-4">
                                 <img class="img-fluid rounded-circle mb-4" src="img/speakers/" alt="">
@@ -152,9 +152,9 @@
                                 <button class="btn btn-square mx-1" data-bs-toggle="modal" data-bs-target="#speaker2-modal"><i class="fas fa-info-circle"></i></button>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- Modal for Speaker 2 -->
-                    <div class="modal fade" id="speaker2-modal" tabindex="-1" role="dialog" aria-labelledby="speaker2-modal-label" aria-hidden="true">
+                    <!-- <div class="modal fade" id="speaker2-modal" tabindex="-1" role="dialog" aria-labelledby="speaker2-modal-label" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-centered" role="document">
                         <div class="modal-content">
                             <div class="modal-header">
@@ -162,18 +162,15 @@
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                             </div>
                             <div class="modal-body">
-                            <!-- Add the speaker's information and abstract here -->
                             <h6>Speaker Information</h6>
                             <p>Prof. Radhakant Padhi earned his Ph.D. in 2001 from Univ. of Missouri at Rolla, USA. He is currently working as the HAL Chair Professor in the Department of Aerospace engineering and also as an Associate Faculty at the Centre for Cyber-Physical Systems, Indian Institute of Science, Bangalore. He is a Fellow of Indian National Academy of Engineering, Aeronautical Society of India, Astronautical Society of India, Institute of Electronics and Telecommunication Engineers, and Institute of Engineers India. He is an Associate Fellow of American Institute of Aeronautics and Astronautics and a Senior Member of Institute of IEEE. Research in Prof. Padhi’s lab spans across Guidance and control of aerospace vehicles, Automatic drug delivery in biomedical applications, Optimal process control, and Control of distributed parameter systems. He has co-authored over 275 publications in international journals and conferences, and a book on Satellite Formation Flying. His research is well-supported by Ministry of Human Resource Development (MHRD), Defence R&D Organisation (DRDO), Indian Space Research Organisation (ISRO), Air Force Research Lab (AFRL) of USA, Agency for Defence Development (ADD) of South Korea etc. The innovative nonlinear and optimal guidance and control algorithms developed by Dr. Padhi and his team are received very well across the globe. Currently his research group is passionately involved in (i) Soft-landing of spacecrafts and drones on Earth, Moon and Mars, (ii) Long-duration station-keeping and robust attitude control of spacecrafts on Halo orbits, (iii) Modelling of air-traffic over the Indian airspace, (iv) Precision guidance of UAVs, and (iv) Developing an artificial pancreas system for Type1 diabetic patients of India, for which he leads a team of IISc faculties and Endocrinologists from MSR Medical College. In biomedical domain, he has also published papers on automatic multi-modal therapy for effective cancer treatment.</p>
-                            <!-- Add more speaker information if needed -->
 
                             <h6>Talk - Artificial Pancreas for Type-1 Diabetic Patients of India</h6>
                             <p>If the blood sugar becomes too low, it may lead to severe condition called hypo-glycemia, where a patient can quickly fall into coma and can even die if not treated quickly. On the other hand, if it remains too high for a long time, it leads to hyper-glycemia, commonly known as diabetes, where a variety of complicacies can arise too. The gluco-regulatory mechanism in human body largely consists of two hormones secreted by the pancreas system, namely the glucagon, secreted by α cells, and insulin, secreted by β cells. Glucagon is responsible for raising the blood sugar level, whereas insulin is responsible for lowering the blood sugar. Type-1 diabetic patients have pancreatic failure and are incapable of secreting any insulin to the blood plasma. Hence, if untreated, they cannot live for long time. The current practice, which is largely followed in the world, is through daily multiple insulin injections. Unfortunately, however, besides being painful, it normally leads to gross inaccuracies, thereby not being able to harvest the full potential of insulin. Fortunately, commercially available insulin pumps are now available which can be programmed to deliver the desired amount of insulin in a very slow rate. However, because they operate continuously for a long time, inaccuracies in manual programming also leads to inaccuracies leading to glucose excursions beyond the desired limits. To address this issue, the current in the world is to develop closed-loop feedback system, called artificial pancreas, where a small amount of insulin is continuously infused to the patient’s body through the subcutaneous route by an insulin pump, depending on the situation of the patient as sensed by the subcutaneous CGM sensor. This talk will give an overview of the concept, followed by the specific activities being carried out at the Indian Institute of Science, in collaboration with MS Ramaiah Medical, in Bangalore, towards development of an effective artificial pancreas system for Type-1 diabetic patients of India. From a modest beginning in 2017, substantial progress has been made in both back-end and front-end developments, leading to successful lab testing followed by clinical trials under controlled environment. The current status of this research, as well as the future plan of action towards realizing this dream, will be outlined in this talk. This includes an IoT solution for a companion App to be used by parents, doctors and caregivers.</p>
-                            <!-- Add more abstract content if needed -->
                             </div>
                         </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- End of Speaker 2 Modal -->
 
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
@@ -325,7 +322,7 @@
                     <!-- End of Speaker 6 Modal -->
 
 
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <!-- <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="team-item bg-light rounded">
                             <div class="text-center border-bottom p-4">
                                 <img class="img-fluid rounded-circle mb-4" src="img/speakers/" alt="">
@@ -337,10 +334,10 @@
                                 <button class="btn btn-square mx-1" data-bs-toggle="modal" data-bs-target="#speaker7-modal"><i class="fas fa-info-circle"></i></button>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
                     <!-- Modal for Speaker 7 -->
-                    <div class="modal fade" id="speaker7-modal" tabindex="-1" role="dialog" aria-labelledby="speaker7-modal-label" aria-hidden="true">
+                    <!-- <div class="modal fade" id="speaker7-modal" tabindex="-1" role="dialog" aria-labelledby="speaker7-modal-label" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-centered" role="document">
                         <div class="modal-content">
                             <div class="modal-header">
@@ -348,21 +345,17 @@
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                             </div>
                             <div class="modal-body">
-                            <!-- Add the speaker's information and abstract here -->
-                            <!-- <h6>Speaker Information</h6>
-                            <p>Matt attended undergraduate school at Alma College. In 1999, he received his PhD in Physics from Rensselaer Polytechnic Institute (RPI), located in Troy, NY. During his dissertation research, Matt worked with General Electric to help develop electronic material manufacturing processes for high frequency RF applications. After graduation, he was able to join full-time and worked on a variety of efforts from electronic packaging to wide band gap semiconductors. Matt later led a large research program developing technology in photonics, more specifically ultra-fast optical communications and three dimensional optical storage materials and systems. Matt was also Lab Manager for the Electrophysics and Materials organization, where he initiated new efforts in bio-electronics and monitoring applications. Matt currently has the position of Principal Scientist with a research focus on Digital Twin anc specifically computer modeling/simulation of physical assets, using physics and machine learning nethods. He is leading several programs that combine machine learning, advanced controls theor and domain knowledge to create a new layer of cyber-security for critical infrastructure assets called igital Ghost. Current applications include natural gas power generation equipment, pipeline compressor stations and large-scale pipeline systems. Dr Nielsen has 42 filed and 27 issued patents. He is a Six Sigma Master Blackbelt and TRIZ Level 3 certified.</p> -->
-                            <!-- Add more speaker information if needed -->
-
+                            <h6>Speaker Information</h6>
+                            <p>Matt attended undergraduate school at Alma College. In 1999, he received his PhD in Physics from Rensselaer Polytechnic Institute (RPI), located in Troy, NY. During his dissertation research, Matt worked with General Electric to help develop electronic material manufacturing processes for high frequency RF applications. After graduation, he was able to join full-time and worked on a variety of efforts from electronic packaging to wide band gap semiconductors. Matt later led a large research program developing technology in photonics, more specifically ultra-fast optical communications and three dimensional optical storage materials and systems. Matt was also Lab Manager for the Electrophysics and Materials organization, where he initiated new efforts in bio-electronics and monitoring applications. Matt currently has the position of Principal Scientist with a research focus on Digital Twin anc specifically computer modeling/simulation of physical assets, using physics and machine learning nethods. He is leading several programs that combine machine learning, advanced controls theor and domain knowledge to create a new layer of cyber-security for critical infrastructure assets called igital Ghost. Current applications include natural gas power generation equipment, pipeline compressor stations and large-scale pipeline systems. Dr Nielsen has 42 filed and 27 issued patents. He is a Six Sigma Master Blackbelt and TRIZ Level 3 certified.</p>
                             <h6>Talk - Scheduling Approaches for Accelerating Real-Time Tasks in Software-Hardware Codesign Paradigm</h6>
                             <p>Reconfigurable systems are increasingly being employed in a large class of today’s heterogeneous real-time systems which often demand satisfaction of stringent timeliness constraints. However, executing a set of hard real-time applications on reconfigurable systems such that all timing constraints are satisfied while also allowing efficient resource utilization requires effective scheduling, mapping and admission control strategies. In case of hardware tasks the reconfigurable space can considered as partitioned into tiles, which can be mapped to the tasks based on logic requirement and execution deadline. The tradeoff between task throughput, resource and energy requirements can be suitably handled in the run time by considering suitable hardware variants of the tasks that can be mapped through full/partial reconfiguration.This lecture will brief on the preliminary concepts of task processing on FPGAs using soft and hard cores and the related architectural design. Scheduling strategies will also be introduced in regards to efficient mapping of tasks on reconfigurable cores both in full and partial reconfiguration domain.</p>
-                            <!-- Add more abstract content if needed -->
                             </div>
                         </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- End of Speaker 7 Modal -->
 
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <!-- <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="team-item bg-light rounded">
                             <div class="text-center border-bottom p-4">
                                 <img class="img-fluid rounded-circle mb-4" src="img/speakers/" alt="">
@@ -374,10 +367,10 @@
                                 <button class="btn btn-square mx-1" data-bs-toggle="modal" data-bs-target="#speaker8-modal"><i class="fas fa-info-circle"></i></button>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
                     <!-- Modal for Speaker 8 -->
-                    <div class="modal fade" id="speaker8-modal" tabindex="-1" role="dialog" aria-labelledby="speaker8-modal-label" aria-hidden="true">
+                    <!-- <div class="modal fade" id="speaker8-modal" tabindex="-1" role="dialog" aria-labelledby="speaker8-modal-label" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-centered" role="document">
                         <div class="modal-content">
                             <div class="modal-header">
@@ -385,18 +378,15 @@
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                             </div>
                             <div class="modal-body">
-                            <!-- Add the speaker's information and abstract here -->
                             <h6>Speaker Information</h6>
                             <p>Gang Li, IEEE senior member, received his Ph.D. in computer science in 2005. He joined the School of Information Technology at Deakin University (Australia) as an associate lecturer (2004-2006), lecturer (2007-2011), senior lecturer (2012-2016). His research interests are in the area of data mining, machine learning, and business intelligence.</p>
-                            <!-- Add more speaker information if needed -->
 
                             <h6>Talk - Combating Adversarial Attacks on Tabular Datasets</h6>
                             <p>When working with large tabular datasets, Artificial Neural Network (ANN) models are preferred due to their in-core data processing capabilities. However, ANN models are vulnerable to adversarial attacks, which has led to a surge in research on developing effective defence strategies against such attacks. Generative models have been found to be more robust to adversarial attacks compared to discriminative models. This has led to the question of whether generative models can be used to defend discriminative models against adversarial attacks. The aim of this talk is to explore the potential of generative models in protecting ANN models from adversarial attacks, and to introduce some recently proposed techniques, e.g. D2A3, gD2A3 that take advantage of the generative-discriminative equivalence of certain ANN models.</p>
-                            <!-- Add more abstract content if needed -->
                             </div>
                         </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- End of Speaker 8 Modal -->
                 </div>
             </div>
