@@ -96,6 +96,313 @@
 
         <!-- Countdown End -->
 
+        <!-- Speakers Start -->
+        <div class="container-xxl py-5">
+            <div class="container py-5 px-lg-5">
+                <div class="wow fadeInUp" data-wow-delay="0.1s">
+                    <p class="section-title text-secondary justify-content-center"><span></span>CONECCT'23<span></span></p>
+                    <h1 class="text-center mb-5">Speakers</h1>
+                </div>
+                <div class="row g-4">
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="team-item bg-light rounded">
+                            <div class="text-center border-bottom p-4">
+                                <img class="img-fluid rounded-circle mb-4" src="img/speakers/1.webp" alt="">
+                                <h5>Dr Matt Nielsen</h5>
+                                <span>GE Research USA</span>
+                            </div>
+                            <div class="d-flex justify-content-center p-4">
+                                <a class="btn btn-square mx-1" href="https://www.linkedin.com/in/matt-nielsen-42435b1b" target = "_blank"><i class="fab fa-linkedin-in"></i></a>
+                                <button class="btn btn-square mx-1" data-bs-toggle="modal" data-bs-target="#speaker1-modal"><i class="fas fa-info-circle"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Modal for Speaker 1 -->
+                    <div class="modal fade" id="speaker1-modal" tabindex="-1" role="dialog" aria-labelledby="speaker1-modal-label" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                            <h5 class="modal-title" id="speaker1-modal-label">Dr Matt Nielsen</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                            <!-- Add the speaker's information and abstract here -->
+                            <h6>Speaker Information</h6>
+                            <p>Matt attended undergraduate school at Alma College. In 1999, he received his PhD in Physics from Rensselaer Polytechnic Institute (RPI), located in Troy, NY. During his dissertation research, Matt worked with General Electric to help develop electronic material manufacturing processes for high frequency RF applications. After graduation, he was able to join full-time and worked on a variety of efforts from electronic packaging to wide band gap semiconductors. Matt later led a large research program developing technology in photonics, more specifically ultra-fast optical communications and three dimensional optical storage materials and systems. Matt was also Lab Manager for the Electrophysics and Materials organization, where he initiated new efforts in bio-electronics and monitoring applications. Matt currently has the position of Principal Scientist with a research focus on Digital Twin anc specifically computer modeling/simulation of physical assets, using physics and machine learning nethods. He is leading several programs that combine machine learning, advanced controls theor and domain knowledge to create a new layer of cyber-security for critical infrastructure assets called igital Ghost. Current applications include natural gas power generation equipment, pipeline compressor stations and large-scale pipeline systems. Dr Nielsen has 42 filed and 27 issued patents. He is a Six Sigma Master Blackbelt and TRIZ Level 3 certified.</p>
+                            <!-- Add more speaker information if needed -->
+
+                            <h6>Talk - Digital Ghost - A New Layer of Cyber-Physical Security for Natural Gas Power Plants (Authors: Matthew Nielsen, Masoud Abbaszadeh, Subhrajit Roychowdhury, Justin John)</h6>
+                            <p>GE's Digital Ghost, which acts in addition to common IT/OT cybersecurity methods, monitors an asset's behavior comparing it to sophisticated computer models called Digital Twins. The internal algorithms within the Ghost will alert the asset operator and cybersecurity specialists if a malicious attack or physical fault is underway. Additional Ghost features can indicate the point of attack within the ystem and in some cases provide a layer of resiliency by neutralizing the effects allowing the asset tc continue operating through an attack. GE will describe the basic principles behind Digital Ghost and give operational examples, including a demonstration test using a 500+ MW gas turbine.</p>
+                            <!-- Add more abstract content if needed -->
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    <!-- End of Speaker 1 Modal -->
+
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="team-item bg-light rounded">
+                            <div class="text-center border-bottom p-4">
+                                <img class="img-fluid rounded-circle mb-4" src="img/speakers/" alt="">
+                                <h5>Prof Radhakant Padhi</h5>
+                                <span>IISc Bangalore</span>
+                            </div>
+                            <div class="d-flex justify-content-center p-4">
+                                <a class="btn btn-square mx-1" href="https://www.linkedin.com/in/radhakant-padhi-7a6b107" target = "_blank"><i class="fab fa-linkedin-in"></i></a>
+                                <button class="btn btn-square mx-1" data-bs-toggle="modal" data-bs-target="#speaker2-modal"><i class="fas fa-info-circle"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Modal for Speaker 2 -->
+                    <div class="modal fade" id="speaker2-modal" tabindex="-1" role="dialog" aria-labelledby="speaker2-modal-label" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                            <h5 class="modal-title" id="speaker2-modal-label">Prof Radhakant Padhi</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                            <!-- Add the speaker's information and abstract here -->
+                            <h6>Speaker Information</h6>
+                            <p>Prof. Radhakant Padhi earned his Ph.D. in 2001 from Univ. of Missouri at Rolla, USA. He is currently working as the HAL Chair Professor in the Department of Aerospace engineering and also as an Associate Faculty at the Centre for Cyber-Physical Systems, Indian Institute of Science, Bangalore. He is a Fellow of Indian National Academy of Engineering, Aeronautical Society of India, Astronautical Society of India, Institute of Electronics and Telecommunication Engineers, and Institute of Engineers India. He is an Associate Fellow of American Institute of Aeronautics and Astronautics and a Senior Member of Institute of IEEE. Research in Prof. Padhi’s lab spans across Guidance and control of aerospace vehicles, Automatic drug delivery in biomedical applications, Optimal process control, and Control of distributed parameter systems. He has co-authored over 275 publications in international journals and conferences, and a book on Satellite Formation Flying. His research is well-supported by Ministry of Human Resource Development (MHRD), Defence R&D Organisation (DRDO), Indian Space Research Organisation (ISRO), Air Force Research Lab (AFRL) of USA, Agency for Defence Development (ADD) of South Korea etc. The innovative nonlinear and optimal guidance and control algorithms developed by Dr. Padhi and his team are received very well across the globe. Currently his research group is passionately involved in (i) Soft-landing of spacecrafts and drones on Earth, Moon and Mars, (ii) Long-duration station-keeping and robust attitude control of spacecrafts on Halo orbits, (iii) Modelling of air-traffic over the Indian airspace, (iv) Precision guidance of UAVs, and (iv) Developing an artificial pancreas system for Type1 diabetic patients of India, for which he leads a team of IISc faculties and Endocrinologists from MSR Medical College. In biomedical domain, he has also published papers on automatic multi-modal therapy for effective cancer treatment.</p>
+                            <!-- Add more speaker information if needed -->
+
+                            <h6>Talk - Artificial Pancreas for Type-1 Diabetic Patients of India</h6>
+                            <p>If the blood sugar becomes too low, it may lead to severe condition called hypo-glycemia, where a patient can quickly fall into coma and can even die if not treated quickly. On the other hand, if it remains too high for a long time, it leads to hyper-glycemia, commonly known as diabetes, where a variety of complicacies can arise too. The gluco-regulatory mechanism in human body largely consists of two hormones secreted by the pancreas system, namely the glucagon, secreted by α cells, and insulin, secreted by β cells. Glucagon is responsible for raising the blood sugar level, whereas insulin is responsible for lowering the blood sugar. Type-1 diabetic patients have pancreatic failure and are incapable of secreting any insulin to the blood plasma. Hence, if untreated, they cannot live for long time. The current practice, which is largely followed in the world, is through daily multiple insulin injections. Unfortunately, however, besides being painful, it normally leads to gross inaccuracies, thereby not being able to harvest the full potential of insulin. Fortunately, commercially available insulin pumps are now available which can be programmed to deliver the desired amount of insulin in a very slow rate. However, because they operate continuously for a long time, inaccuracies in manual programming also leads to inaccuracies leading to glucose excursions beyond the desired limits. To address this issue, the current in the world is to develop closed-loop feedback system, called artificial pancreas, where a small amount of insulin is continuously infused to the patient’s body through the subcutaneous route by an insulin pump, depending on the situation of the patient as sensed by the subcutaneous CGM sensor. This talk will give an overview of the concept, followed by the specific activities being carried out at the Indian Institute of Science, in collaboration with MS Ramaiah Medical, in Bangalore, towards development of an effective artificial pancreas system for Type-1 diabetic patients of India. From a modest beginning in 2017, substantial progress has been made in both back-end and front-end developments, leading to successful lab testing followed by clinical trials under controlled environment. The current status of this research, as well as the future plan of action towards realizing this dream, will be outlined in this talk. This includes an IoT solution for a companion App to be used by parents, doctors and caregivers.</p>
+                            <!-- Add more abstract content if needed -->
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    <!-- End of Speaker 2 Modal -->
+
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="team-item bg-light rounded">
+                            <div class="text-center border-bottom p-4">
+                                <img class="img-fluid rounded-circle mb-4" src="img/speakers/3.webp" alt="">
+                                <h5>Kanad Basu</h5>
+                                <span>University of Texas at Dallas</span>
+                            </div>
+                            <div class="d-flex justify-content-center p-4">
+                                <a class="btn btn-square mx-1" href="https://www.linkedin.com/in/kanad-basu-3424108/" target = "_blank"><i class="fab fa-linkedin-in"></i></a>
+                                <button class="btn btn-square mx-1" data-bs-toggle="modal" data-bs-target="#speaker3-modal"><i class="fas fa-info-circle"></i></button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Modal for Speaker 3 -->
+                    <div class="modal fade" id="speaker3-modal" tabindex="-1" role="dialog" aria-labelledby="speaker3-modal-label" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                            <h5 class="modal-title" id="speaker3-modal-label">Kanad Basu</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                            <!-- Add the speaker's information and abstract here -->
+                            <h6>Speaker Information</h6>
+                            <p>Kanad Basu received his Ph.D. from the department of Computer and Information Science and Engineering, University of Florida. His thesis was focused on improving signal observability for post-silicon validation. Post-PhD, Kanad worked in various semiconductor companies like IBM and Synopsys. During his PhD days, Kanad interned at Intel. Currently, Kanad is an Assistant Professor at the Electrical and Computer Engineering Department of the University of Texas at Dallas, where he leads the Trustworthy and Intelligent Embedded Systems (TIES) lab. Prior to this, Kanad was an Assistant Research Professor at the Electrical and Computer Engineering Department of NYU. He has authored 1 book, 2 US patents, 2 book chapters and several peer reviewed journal and conference articles. He has graduated 1 PhD student and currently, his lab has 8 PhD students. Kanad was awarded the ”Best Paper Award” at the International Conference on VLSI Design 2011 and an honorable mention award at the same conference in 2021. Several News agencies have covered his research including NBC Austin and CBS Dallas-Fort Worth. Kanad’s current research interests are hardware and systems security, functional safety, deep learning hardware and quantum computing. Undergraduate and graduate teams mentored by Kanad has won several national and international cybersecurity competitions. His research is supported by NSF, SRC, DARPA and Ford Motors. His research team is part of TxACE (Texas Analog Center of Excellence) and CHEST IUCRC.</p>
+                            <!-- Add more speaker information if needed -->
+
+                            <h6>Talk - Security: The Next Grand Challenge for Hardware design</h6>
+                            <p>Anti-virus software (AVS) tools are used to detect Malware in a system. However, software-based AVS are vulnerable to attacks. A malicious entity can exploit these vulnerabilities to subvert the AVS. Recently, hardware components such as Hardware Performance Counters (HPC) have been used for Malware detection, in the form of Anti-virus Hardware (AVH). In this talk, we will discuss HPC-based AVHs for improving embedded security and privacy. Subsequently, we will discuss their pitfalls. Next, we will present PREEMPT, a zero overhead, high-accuracy and low-latency technique to detect Malware by re-purposing the embedded trace buffer (ETB), a debug hardware component available in most modern processors. Finally, we will present some hardware security challenges and potential solutions, in utilizing the hardware as a root of trust. We will conclude the talk with future research directions and challenges.</p>
+                            <!-- Add more abstract content if needed -->
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    <!-- End of Speaker 3 Modal -->
+
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="team-item bg-light rounded">
+                            <div class="text-center border-bottom p-4">
+                                <img class="img-fluid rounded-circle mb-4" src="img/speakers/4.webp" alt="">
+                                <h5>Mr Chetan Kumar S</h5>
+                                <span>Mavenir Systems</span>
+                            </div>
+                            <div class="d-flex justify-content-center p-4">
+                                <a class="btn btn-square mx-1" href="https://www.linkedin.com/in/chetansk/" target = "_blank"><i class="fab fa-linkedin-in"></i></a>
+                                <button class="btn btn-square mx-1" data-bs-toggle="modal" data-bs-target="#speaker4-modal"><i class="fas fa-info-circle"></i></button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Modal for Speaker 4 -->
+                    <div class="modal fade" id="speaker4-modal" tabindex="-1" role="dialog" aria-labelledby="speaker4-modal-label" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                            <h5 class="modal-title" id="speaker4-modal-label">Mr Chetan Kumar S</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                            <!-- Add the speaker's information and abstract here -->
+                            <h6>Speaker Information</h6>
+                            <p>Chetan Kumar S is Sr. Director of Engineering Mavenir System, building products for 5G technology. Before Mavenir, Chetan was Co-Founder and C.E.O at AiKaan Labs, which Ather Energy acquired.  At AiKaan labs, Chetan and his team were building a machine intelligence-driven application orchestration and device management for edge computing. Chetan is a tech blogger, author, and global speaker. Chetan has over 20 years of experience working at networking giants like Cisco Systems, Juniper Networks, Alcatel-Lucent, and startups. He was one of the lead investigators in Cisco’s pioneer award-winning encrypted traffic analytics. Chetan obtained master's degree in engineering from the Indian Institute of Science, and bachelor's degree in engineering from the University of Mysore. Has (co-)authored 8 papers published in various international conferences and proceedings, and proposed two internet drafts to a standards body. Has four patents in voice-over IP, Netflow, and Edge computing. Business Advisor to Aham Robotics, ART Park, Indian Institute of Science Member of Cyber Security committee, Bangalore Chamber of Commerce and Industry (BCIC).</p>
+                            <!-- Add more speaker information if needed -->
+
+                            <h6>Talk - Edge AI, for next generation AI applications ?</h6>
+                            <p>28.77 million terabytes of data are generated every day, according to the latest estimates. The AI tools like chatGPT are evolving at an exponential rate to be able to process this huge amount of data and create insightful results. The next-generation AI applications might need more than the cloud AI model. The applications might need real-time decision-making. Edge AI, on the other hand, brings AI processing closer to the source of data, enabling faster decision-making, reduced latency, and increased privacy and security. This talk will explore the potential of Edge AI. This talk we will explore the next-generation AI applications and their requirements. We will try to understand the need of compute resources for these applications and look at the relevance of Edge AI.</p>
+                            <!-- Add more abstract content if needed -->
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    <!-- End of Speaker 4 Modal -->
+
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="team-item bg-light rounded">
+                            <div class="text-center border-bottom p-4">
+                                <img class="img-fluid rounded-circle mb-4" src="img/speakers/5.webp" alt="">
+                                <h5>Prof Saifur Rahman</h5>
+                                <span>Virginia Tech Advanced Research Inst.</span>
+                            </div>
+                            <div class="d-flex justify-content-center p-4">
+                                <a class="btn btn-square mx-1" href="https://www.linkedin.com/in/saifur-rahman-vt" target = "_blank"><i class="fab fa-linkedin-in"></i></a>
+                                <button class="btn btn-square mx-1" data-bs-toggle="modal" data-bs-target="#speaker5-modal"><i class="fas fa-info-circle"></i></button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Modal for Speaker 5 -->
+                    <div class="modal fade" id="speaker5-modal" tabindex="-1" role="dialog" aria-labelledby="speaker5-modal-label" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                            <h5 class="modal-title" id="speaker5-modal-label">Prof Saifur Rahman</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                            <!-- Add the speaker's information and abstract here -->
+                            <!-- <h6>Speaker Information</h6>
+                            <p>Matt attended undergraduate school at Alma College. In 1999, he received his PhD in Physics from Rensselaer Polytechnic Institute (RPI), located in Troy, NY. During his dissertation research, Matt worked with General Electric to help develop electronic material manufacturing processes for high frequency RF applications. After graduation, he was able to join full-time and worked on a variety of efforts from electronic packaging to wide band gap semiconductors. Matt later led a large research program developing technology in photonics, more specifically ultra-fast optical communications and three dimensional optical storage materials and systems. Matt was also Lab Manager for the Electrophysics and Materials organization, where he initiated new efforts in bio-electronics and monitoring applications. Matt currently has the position of Principal Scientist with a research focus on Digital Twin anc specifically computer modeling/simulation of physical assets, using physics and machine learning nethods. He is leading several programs that combine machine learning, advanced controls theor and domain knowledge to create a new layer of cyber-security for critical infrastructure assets called igital Ghost. Current applications include natural gas power generation equipment, pipeline compressor stations and large-scale pipeline systems. Dr Nielsen has 42 filed and 27 issued patents. He is a Six Sigma Master Blackbelt and TRIZ Level 3 certified.</p> -->
+                            <!-- Add more speaker information if needed -->
+
+                            <h6>Talk - Smart Grid as Intelligent CPS: Its Impact on Climate Change Mitigation</h6>
+                            <!-- <p>GE's Digital Ghost, which acts in addition to common IT/OT cybersecurity methods, monitors an asset's behavior comparing it to sophisticated computer models called Digital Twins. The internal algorithms within the Ghost will alert the asset operator and cybersecurity specialists if a malicious attack or physical fault is underway. Additional Ghost features can indicate the point of attack within the ystem and in some cases provide a layer of resiliency by neutralizing the effects allowing the asset tc continue operating through an attack. GE will describe the basic principles behind Digital Ghost and give operational examples, including a demonstration test using a 500+ MW gas turbine.</p> -->
+                            <!-- Add more abstract content if needed -->
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    <!-- End of Speaker 5 Modal -->
+
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="team-item bg-light rounded">
+                            <div class="text-center border-bottom p-4">
+                                <img class="img-fluid rounded-circle mb-4" src="img/speakers/6.webp" alt="">
+                                <h5>Dr. Anuragh Kumar</h5>
+                                <span>IISc Bangalore</span>
+                            </div>
+                            <div class="d-flex justify-content-center p-4">
+                                <a class="btn btn-square mx-1" href="https://www.linkedin.com/in/anurag-kumar-9a7a7558" target = "_blank"><i class="fab fa-linkedin-in"></i></a>
+                                <button class="btn btn-square mx-1" data-bs-toggle="modal" data-bs-target="#speaker6-modal"><i class="fas fa-info-circle"></i></button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Modal for Speaker 6 -->
+                    <div class="modal fade" id="speaker6-modal" tabindex="-1" role="dialog" aria-labelledby="speaker6-modal-label" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                            <h5 class="modal-title" id="speaker6-modal-label">Dr. Anuragh Kumar</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                            <!-- Add the speaker's information and abstract here -->
+                            <!-- <h6>Speaker Information</h6>
+                            <p>Matt attended undergraduate school at Alma College. In 1999, he received his PhD in Physics from Rensselaer Polytechnic Institute (RPI), located in Troy, NY. During his dissertation research, Matt worked with General Electric to help develop electronic material manufacturing processes for high frequency RF applications. After graduation, he was able to join full-time and worked on a variety of efforts from electronic packaging to wide band gap semiconductors. Matt later led a large research program developing technology in photonics, more specifically ultra-fast optical communications and three dimensional optical storage materials and systems. Matt was also Lab Manager for the Electrophysics and Materials organization, where he initiated new efforts in bio-electronics and monitoring applications. Matt currently has the position of Principal Scientist with a research focus on Digital Twin anc specifically computer modeling/simulation of physical assets, using physics and machine learning nethods. He is leading several programs that combine machine learning, advanced controls theor and domain knowledge to create a new layer of cyber-security for critical infrastructure assets called igital Ghost. Current applications include natural gas power generation equipment, pipeline compressor stations and large-scale pipeline systems. Dr Nielsen has 42 filed and 27 issued patents. He is a Six Sigma Master Blackbelt and TRIZ Level 3 certified.</p> -->
+                            <!-- Add more speaker information if needed -->
+
+                            <h6>Talk - Cyber Physical Systems for Industry 4.0</h6>
+                            <!-- <p>GE's Digital Ghost, which acts in addition to common IT/OT cybersecurity methods, monitors an asset's behavior comparing it to sophisticated computer models called Digital Twins. The internal algorithms within the Ghost will alert the asset operator and cybersecurity specialists if a malicious attack or physical fault is underway. Additional Ghost features can indicate the point of attack within the ystem and in some cases provide a layer of resiliency by neutralizing the effects allowing the asset tc continue operating through an attack. GE will describe the basic principles behind Digital Ghost and give operational examples, including a demonstration test using a 500+ MW gas turbine.</p> -->
+                            <!-- Add more abstract content if needed -->
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    <!-- End of Speaker 6 Modal -->
+
+
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="team-item bg-light rounded">
+                            <div class="text-center border-bottom p-4">
+                                <img class="img-fluid rounded-circle mb-4" src="img/speakers/" alt="">
+                                <h5>Dr Amlan Chakrabati</h5>
+                                <span>AK Choudhry School of Information Technology, University of Calcutta</span>
+                            </div>
+                            <div class="d-flex justify-content-center p-4">
+                                <a class="btn btn-square mx-1" href="https://www.caluniv.ac.in/academic/akcsit/Amlan-C.pdf" target = "_blank"><i class="fab fa-linkedin-in"></i></a>
+                                <button class="btn btn-square mx-1" data-bs-toggle="modal" data-bs-target="#speaker7-modal"><i class="fas fa-info-circle"></i></button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Modal for Speaker 7 -->
+                    <div class="modal fade" id="speaker7-modal" tabindex="-1" role="dialog" aria-labelledby="speaker7-modal-label" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                            <h5 class="modal-title" id="speaker7-modal-label">Dr Amlan Chakrabati</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                            <!-- Add the speaker's information and abstract here -->
+                            <!-- <h6>Speaker Information</h6>
+                            <p>Matt attended undergraduate school at Alma College. In 1999, he received his PhD in Physics from Rensselaer Polytechnic Institute (RPI), located in Troy, NY. During his dissertation research, Matt worked with General Electric to help develop electronic material manufacturing processes for high frequency RF applications. After graduation, he was able to join full-time and worked on a variety of efforts from electronic packaging to wide band gap semiconductors. Matt later led a large research program developing technology in photonics, more specifically ultra-fast optical communications and three dimensional optical storage materials and systems. Matt was also Lab Manager for the Electrophysics and Materials organization, where he initiated new efforts in bio-electronics and monitoring applications. Matt currently has the position of Principal Scientist with a research focus on Digital Twin anc specifically computer modeling/simulation of physical assets, using physics and machine learning nethods. He is leading several programs that combine machine learning, advanced controls theor and domain knowledge to create a new layer of cyber-security for critical infrastructure assets called igital Ghost. Current applications include natural gas power generation equipment, pipeline compressor stations and large-scale pipeline systems. Dr Nielsen has 42 filed and 27 issued patents. He is a Six Sigma Master Blackbelt and TRIZ Level 3 certified.</p> -->
+                            <!-- Add more speaker information if needed -->
+
+                            <h6>Talk - Scheduling Approaches for Accelerating Real-Time Tasks in Software-Hardware Codesign Paradigm</h6>
+                            <p>Reconfigurable systems are increasingly being employed in a large class of today’s heterogeneous real-time systems which often demand satisfaction of stringent timeliness constraints. However, executing a set of hard real-time applications on reconfigurable systems such that all timing constraints are satisfied while also allowing efficient resource utilization requires effective scheduling, mapping and admission control strategies. In case of hardware tasks the reconfigurable space can considered as partitioned into tiles, which can be mapped to the tasks based on logic requirement and execution deadline. The tradeoff between task throughput, resource and energy requirements can be suitably handled in the run time by considering suitable hardware variants of the tasks that can be mapped through full/partial reconfiguration.This lecture will brief on the preliminary concepts of task processing on FPGAs using soft and hard cores and the related architectural design. Scheduling strategies will also be introduced in regards to efficient mapping of tasks on reconfigurable cores both in full and partial reconfiguration domain.</p>
+                            <!-- Add more abstract content if needed -->
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    <!-- End of Speaker 7 Modal -->
+
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="team-item bg-light rounded">
+                            <div class="text-center border-bottom p-4">
+                                <img class="img-fluid rounded-circle mb-4" src="img/speakers/" alt="">
+                                <h5>Prof Gang Li</h5>
+                                <span>Dakien University, Melbourne, Australia</span>
+                            </div>
+                            <div class="d-flex justify-content-center p-4">
+                                <a class="btn btn-square mx-1" href="https://www.deakin.edu.au/about-deakin/people/gang-li" target = "_blank"><i class="fab fa-linkedin-in"></i></a>
+                                <button class="btn btn-square mx-1" data-bs-toggle="modal" data-bs-target="#speaker8-modal"><i class="fas fa-info-circle"></i></button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Modal for Speaker 8 -->
+                    <div class="modal fade" id="speaker8-modal" tabindex="-1" role="dialog" aria-labelledby="speaker8-modal-label" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                            <h5 class="modal-title" id="speaker8-modal-label">Prof Gang Li</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                            <!-- Add the speaker's information and abstract here -->
+                            <h6>Speaker Information</h6>
+                            <p>Gang Li, IEEE senior member, received his Ph.D. in computer science in 2005. He joined the School of Information Technology at Deakin University (Australia) as an associate lecturer (2004-2006), lecturer (2007-2011), senior lecturer (2012-2016). His research interests are in the area of data mining, machine learning, and business intelligence.</p>
+                            <!-- Add more speaker information if needed -->
+
+                            <h6>Talk - Combating Adversarial Attacks on Tabular Datasets</h6>
+                            <p>When working with large tabular datasets, Artificial Neural Network (ANN) models are preferred due to their in-core data processing capabilities. However, ANN models are vulnerable to adversarial attacks, which has led to a surge in research on developing effective defence strategies against such attacks. Generative models have been found to be more robust to adversarial attacks compared to discriminative models. This has led to the question of whether generative models can be used to defend discriminative models against adversarial attacks. The aim of this talk is to explore the potential of generative models in protecting ANN models from adversarial attacks, and to introduce some recently proposed techniques, e.g. D2A3, gD2A3 that take advantage of the generative-discriminative equivalence of certain ANN models.</p>
+                            <!-- Add more abstract content if needed -->
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    <!-- End of Speaker 8 Modal -->
+                </div>
+            </div>
+        </div>
+        <!-- Speakers End -->
+
         <!-- Dates Start -->
         <div class="container-xxl py-5">
             <div class="container py-5 px-lg-5">
