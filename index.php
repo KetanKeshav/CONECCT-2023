@@ -103,7 +103,7 @@
                     <p class="section-title text-secondary justify-content-center"><span></span>CONECCT'23<span></span></p>
                     <h1 class="text-center mb-5">Speakers</h1>
                 </div>
-
+                <div class="row g-4">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="team-item bg-light rounded">
                             <div class="text-center border-bottom p-4">
@@ -226,7 +226,6 @@
                         </div>
                     </div>
 
-                    <div class="row g-4">
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="team-item bg-light rounded">
                             <div class="text-center border-bottom p-4">
