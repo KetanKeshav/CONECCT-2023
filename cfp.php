@@ -183,6 +183,10 @@
                     </div><br>
                     <div class="col-md-3 text-md-right text-center">
                         <a href="https://bit.ly/CONECCT2023Tutorials" target="blank" class="btn btn-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Tutorial Submission</a>
+                    </div><br>
+                    <div class="col-md-3 text-md-right text-center">
+                        <p class="animated slideInLeft">Instructions for authors of accepted papers.</p>
+                        <a href="downloads/AuthorInstructions-CameraReady.pdf" class="btn btn-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft" download="Instructions-IEEE-CONECCT23">Instructions</a>
                     </div>
                 </center>
             </div>
