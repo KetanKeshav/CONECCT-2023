@@ -175,7 +175,7 @@
                     </div> -->
                     <!-- End of Speaker 2 Modal -->
 
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <!-- <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="team-item bg-light rounded">
                             <div class="text-center border-bottom p-4">
                                 <img class="img-fluid rounded-circle mb-4" src="img/speakers/3.webp" alt="">
@@ -187,29 +187,29 @@
                                 <button class="btn btn-square mx-1" data-bs-toggle="modal" data-bs-target="#speaker3-modal"><i class="fas fa-info-circle"></i></button>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
                     <!-- Modal for Speaker 3 -->
-                    <div class="modal fade" id="speaker3-modal" tabindex="-1" role="dialog" aria-labelledby="speaker3-modal-label" aria-hidden="true">
+                    <!-- <div class="modal fade" id="speaker3-modal" tabindex="-1" role="dialog" aria-labelledby="speaker3-modal-label" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-centered" role="document">
                         <div class="modal-content">
                             <div class="modal-header">
                             <h5 class="modal-title" id="speaker3-modal-label">Kanad Basu</h5>
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                             </div>
-                            <div class="modal-body">
+                            <div class="modal-body"> -->
                             <!-- Add the speaker's information and abstract here -->
-                            <h6>Speaker Information</h6>
-                            <p>Kanad Basu received his Ph.D. from the department of Computer and Information Science and Engineering, University of Florida. His thesis was focused on improving signal observability for post-silicon validation. Post-PhD, Kanad worked in various semiconductor companies like IBM and Synopsys. During his PhD days, Kanad interned at Intel. Currently, Kanad is an Assistant Professor at the Electrical and Computer Engineering Department of the University of Texas at Dallas, where he leads the Trustworthy and Intelligent Embedded Systems (TIES) lab. Prior to this, Kanad was an Assistant Research Professor at the Electrical and Computer Engineering Department of NYU. He has authored 1 book, 2 US patents, 2 book chapters and several peer reviewed journal and conference articles. He has graduated 1 PhD student and currently, his lab has 8 PhD students. Kanad was awarded the ”Best Paper Award” at the International Conference on VLSI Design 2011 and an honorable mention award at the same conference in 2021. Several News agencies have covered his research including NBC Austin and CBS Dallas-Fort Worth. Kanad’s current research interests are hardware and systems security, functional safety, deep learning hardware and quantum computing. Undergraduate and graduate teams mentored by Kanad has won several national and international cybersecurity competitions. His research is supported by NSF, SRC, DARPA and Ford Motors. His research team is part of TxACE (Texas Analog Center of Excellence) and CHEST IUCRC.</p>
+                            <!-- <h6>Speaker Information</h6>
+                            <p>Kanad Basu received his Ph.D. from the department of Computer and Information Science and Engineering, University of Florida. His thesis was focused on improving signal observability for post-silicon validation. Post-PhD, Kanad worked in various semiconductor companies like IBM and Synopsys. During his PhD days, Kanad interned at Intel. Currently, Kanad is an Assistant Professor at the Electrical and Computer Engineering Department of the University of Texas at Dallas, where he leads the Trustworthy and Intelligent Embedded Systems (TIES) lab. Prior to this, Kanad was an Assistant Research Professor at the Electrical and Computer Engineering Department of NYU. He has authored 1 book, 2 US patents, 2 book chapters and several peer reviewed journal and conference articles. He has graduated 1 PhD student and currently, his lab has 8 PhD students. Kanad was awarded the ”Best Paper Award” at the International Conference on VLSI Design 2011 and an honorable mention award at the same conference in 2021. Several News agencies have covered his research including NBC Austin and CBS Dallas-Fort Worth. Kanad’s current research interests are hardware and systems security, functional safety, deep learning hardware and quantum computing. Undergraduate and graduate teams mentored by Kanad has won several national and international cybersecurity competitions. His research is supported by NSF, SRC, DARPA and Ford Motors. His research team is part of TxACE (Texas Analog Center of Excellence) and CHEST IUCRC.</p> -->
                             <!-- Add more speaker information if needed -->
 
-                            <h6>Talk - Security: The Next Grand Challenge for Hardware design</h6>
-                            <p>Anti-virus software (AVS) tools are used to detect Malware in a system. However, software-based AVS are vulnerable to attacks. A malicious entity can exploit these vulnerabilities to subvert the AVS. Recently, hardware components such as Hardware Performance Counters (HPC) have been used for Malware detection, in the form of Anti-virus Hardware (AVH). In this talk, we will discuss HPC-based AVHs for improving embedded security and privacy. Subsequently, we will discuss their pitfalls. Next, we will present PREEMPT, a zero overhead, high-accuracy and low-latency technique to detect Malware by re-purposing the embedded trace buffer (ETB), a debug hardware component available in most modern processors. Finally, we will present some hardware security challenges and potential solutions, in utilizing the hardware as a root of trust. We will conclude the talk with future research directions and challenges.</p>
+                            <!-- <h6>Talk - Security: The Next Grand Challenge for Hardware design</h6>
+                            <p>Anti-virus software (AVS) tools are used to detect Malware in a system. However, software-based AVS are vulnerable to attacks. A malicious entity can exploit these vulnerabilities to subvert the AVS. Recently, hardware components such as Hardware Performance Counters (HPC) have been used for Malware detection, in the form of Anti-virus Hardware (AVH). In this talk, we will discuss HPC-based AVHs for improving embedded security and privacy. Subsequently, we will discuss their pitfalls. Next, we will present PREEMPT, a zero overhead, high-accuracy and low-latency technique to detect Malware by re-purposing the embedded trace buffer (ETB), a debug hardware component available in most modern processors. Finally, we will present some hardware security challenges and potential solutions, in utilizing the hardware as a root of trust. We will conclude the talk with future research directions and challenges.</p> -->
                             <!-- Add more abstract content if needed -->
-                            </div>
+                            <!-- </div>
                         </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!-- End of Speaker 3 Modal -->
 
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -391,6 +391,40 @@
                         </div>
                     </div> -->
                     <!-- End of Speaker 8 Modal -->
+
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="team-item bg-light rounded">
+                            <div class="text-center border-bottom p-4">
+                                <img class="img-fluid rounded-circle mb-4" src="img/speakers/10.webp" alt="">
+                                <h5>Ambalal V. Patel</h5>
+                                <span>IFCS Directorate, Aeronautical Development Agency</span>
+                            </div>
+                            <div class="d-flex justify-content-center p-4">
+                                <a class="btn btn-square mx-1" href="#" target = "_blank"><i class="fab fa-linkedin-in"></i></a>
+                                <button class="btn btn-square mx-1" data-bs-toggle="modal" data-bs-target="#speaker8-modal"><i class="fas fa-info-circle"></i></button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Modal for Speaker 9 -->
+                    <div class="modal fade" id="speaker8-modal" tabindex="-1" role="dialog" aria-labelledby="speaker8-modal-label" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                            <h5 class="modal-title" id="speaker8-modal-label">Ambalal V. Patel</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                            <!-- <h6>Speaker Information</h6>
+                            <p>Gang Li, IEEE senior member, received his Ph.D. in computer science in 2005. He joined the School of Information Technology at Deakin University (Australia) as an associate lecturer (2004-2006), lecturer (2007-2011), senior lecturer (2012-2016). His research interests are in the area of data mining, machine learning, and business intelligence.</p> -->
+
+                            <h6>Talk - Flight Control System Software Clearance</h6>
+                            <!-- <p>When working with large tabular datasets, Artificial Neural Network (ANN) models are preferred due to their in-core data processing capabilities. However, ANN models are vulnerable to adversarial attacks, which has led to a surge in research on developing effective defence strategies against such attacks. Generative models have been found to be more robust to adversarial attacks compared to discriminative models. This has led to the question of whether generative models can be used to defend discriminative models against adversarial attacks. The aim of this talk is to explore the potential of generative models in protecting ANN models from adversarial attacks, and to introduce some recently proposed techniques, e.g. D2A3, gD2A3 that take advantage of the generative-discriminative equivalence of certain ANN models.</p> -->
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    <!-- End of Speaker 9 Modal -->
                 </div>
             </div>
         </div>
