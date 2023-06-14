@@ -463,6 +463,70 @@
         </div>
         <!-- Speakers End -->
 
+        <!-- Tutorials Start -->
+        <div class="container-xxl py-5">
+            <div class="container py-5 px-lg-5">
+                <div class="wow fadeInUp" data-wow-delay="0.1s">
+                    <p class="section-title text-secondary justify-content-center"><span></span>CONECCT'23<span></span></p>
+                    <h1 class="text-center mb-5">Tutorials</h1>
+                </div>
+                <div class="row g-4">
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="team-item bg-light rounded">
+                            <div class="text-center border-bottom p-4">
+                                <img class="img-fluid rounded-circle mb-4" src="img/tutorials/1.png" alt="">
+                                <h5>Tutorial 1</h5>
+                                <span>Janamejaya Channegowda</span><br>
+                                <span>Technical Lead, Janamejaya Channegowda</span>
+                            </div>
+                            <div class="d-flex justify-content-center p-4">
+                                <a class="btn btn-square mx-1" href="https://www.linkedin.com/in/saifur-rahman-vt" target = "_blank"><i class="fab fa-linkedin-in"></i></a>
+                                <button class="btn btn-square mx-1" data-bs-toggle="modal" data-bs-target="#tutorial1-modal"><i class="fas fa-info-circle"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                
+                    <!-- Modal for Speaker 1 -->
+                    <div class="modal fade" id="tutorial1-modal" tabindex="-1" role="dialog" aria-labelledby="tutorial1-modal-label" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                            <h5 class="modal-title" id="tutorial1-modal-label">Janamejaya Channegowda</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                            <!-- Add the speaker's information and abstract here -->
+                            <h6>Speaker Information</h6>
+                            <p>Janamejaya Channegowda received the Bachelor's degree in Electrical and Electronics engineering from Visvesvaraya Technological University, Belgaum, India, in 2010, the M.S (By Research) degree in electrical engineering from the National Institute of Technology, Tiruchirappalli, India, in 2013, and the Ph.D. degree in electrical engineering majoring in power electronics and motor drives from the University of Ontario Institute of Technology, Oshawa, ON, Canada, in 2018. From December 2012 to July 2014, he was a Research Associate with the Power Electronics Group, Department of Electrical Engineering, Indian Institute of Science, Bangalore, India. Dr. Channegowda was a Member of Technical Staff at Macdonald, Dettwiler and Associates (MDA) Corporation in Sainte-Anne-de-Bellevue, Quebec, Canada. He was part of the Antenna Pointing Mechanism Electronics Team at MDA Corporation till November 2018. He was an R & D Engineer at ARDA Power, Toronto, Canada, till July 2019. He was  working at M S Ramaiah Institute of Technology as an Assistant Professor till September 2022. Currently he is working at L&T Technology Services as a Technical Lead in the transportation unit.</p>
+                            <!-- Add more speaker information if needed -->
+
+                            <h6>Talk - A Cyber-physical System Approach Towards Robust Battery Management Systems for Transportation Electrification Applications</h6>
+                            <p>Electric Vehicle (EV) fleets have dramatically expanded over the past several years. There has been significant increase in interest to electrify all modes of transportation. EVs are primarily powered by Energy Storage Systems such as Lithium-ion Battery packs. Total battery pack capacity translates to the available range in an EV. State of Charge (SOC) is the ratio of available battery capacity to total capacity and is expressed in percentages. It is crucial to develop reliable Battery Management Systems for effective voltage and health monitoring of these battery packs. As the transportation industry electrifies most of its fleets there is a massive amount of data generated from various onboard systems. This data-driven approach demands a robust  Cyber-physical System architecture to maximize available range in an EV.  This talk will focus on understanding batteries and commercial battery management systems for electrifying vehicles.</p>
+
+                            <h6>Tutorial Details:</h6>
+                            <ul>
+                            <li>Duration: 3 Hours</li>
+                            <li>The tutorial will benefit audiences from various backgrounds and experience levels: Researchers (Faculty/Scholars):</li>
+                            <li>The talk will focus on new emerging research areas in the energy storage space.</li>
+                            <li>The talk will also present useful data analysis techniques to interpret battery datasets.</li>
+                            <li>The talk will shed light on simulating complex systems, developing and testing hypotheses, and making valid predictions about battery system behavior.</li>
+                            <li>The talk will also highlight some of the challenging research problems in the battery management systems space that require immediate attention.</li>
+                            <li>The talk will give an introduction to batteries and emphasize the selection procedures for Battery Management System ICs.</li>
+                            <li>The talk will give insights into the Battery Management System architecture including various operational and fault detection modes.</li>
+                            <li>The talk will also touch upon the functional safety aspects of Battery Management Systems.</li>
+                            <li>The talk will also discuss suitable algorithms employed for State-of-Charge and State-of-Health estimation of battery packs.</li>
+                            </ul>
+                            <!-- Add more abstract content if needed -->
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    <!-- End of Speaker 1 Modal -->
+                </div>
+            </div>
+        </div>
+        <!-- Tutorials End -->
+
         <!-- Dates Start -->
         <div class="container-xxl py-5">
             <div class="container py-5 px-lg-5">
