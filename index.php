@@ -477,7 +477,7 @@
                                 <img class="img-fluid rounded-circle mb-4" src="img/tutorials/1.png" alt="">
                                 <h5>Tutorial 1</h5>
                                 <span>Janamejaya Channegowda</span><br>
-                                <span>Technical Lead, Janamejaya Channegowda</span>
+                                <span>Technical Lead,  L&T Technology Services</span>
                             </div>
                             <div class="d-flex justify-content-center p-4">
                                 <a class="btn btn-square mx-1" href="https://www.linkedin.com/in/saifur-rahman-vt" target = "_blank"><i class="fab fa-linkedin-in"></i></a>
