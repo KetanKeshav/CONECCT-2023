@@ -148,7 +148,7 @@ h6,
     .sticky-top.navbar-light .navbar-nav .nav-link {
         padding: 10px 0;
         margin-left: 0;
-        color: var(--dark) !important;
+        color: var(--light) !important;
     }
 
     .navbar-light .navbar-brand h1 {
