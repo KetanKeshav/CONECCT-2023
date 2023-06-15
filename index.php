@@ -144,13 +144,6 @@
                             </div>
                         </div>
                     </div>
-                    <div class="testimonial-item bg-light rounded my-4">
-                        <div class="d-flex align-items-center">
-                            <div class="ps-4">
-                                <img src="img/sponsors/7.png" class="img-fluid" alt="Responsive Image">
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
