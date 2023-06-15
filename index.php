@@ -96,6 +96,66 @@
         </div>
         <!-- Testimonial End -->
 
+        <!-- Testimonial Start -->
+        <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="container py-5 px-lg-5">
+                <p class="section-title text-secondary justify-content-center"><span></span>Sponsors<span></span></p>
+                <h1 class="text-center mb-5">Technical Co-Sponsors</h1>
+                <div class="owl-carousel testimonial-carousel">
+                    <div class="testimonial-item bg-light rounded my-4">
+                        <div class="d-flex align-items-center">
+                            <div class="ps-4">
+                                <img src="img/sponsors/1.png" class="img-fluid" alt="Responsive Image">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testimonial-item bg-light rounded my-4">
+                        <div class="d-flex align-items-center">
+                            <div class="ps-4">
+                                <img src="img/sponsors/2.png" class="img-fluid" alt="Responsive Image">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testimonial-item bg-light rounded my-4">
+                        <div class="d-flex align-items-center">
+                            <div class="ps-4">
+                                <img src="img/sponsors/3.png" class="img-fluid" alt="Responsive Image">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testimonial-item bg-light rounded my-4">
+                        <div class="d-flex align-items-center">
+                            <div class="ps-4">
+                                <img src="img/sponsors/4.png" class="img-fluid" alt="Responsive Image">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testimonial-item bg-light rounded my-4">
+                        <div class="d-flex align-items-center">
+                            <div class="ps-4">
+                                <img src="img/sponsors/5.png" class="img-fluid" alt="Responsive Image">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testimonial-item bg-light rounded my-4">
+                        <div class="d-flex align-items-center">
+                            <div class="ps-4">
+                                <img src="img/sponsors/6.png" class="img-fluid" alt="Responsive Image">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="testimonial-item bg-light rounded my-4">
+                        <div class="d-flex align-items-center">
+                            <div class="ps-4">
+                                <img src="img/sponsors/7.png" class="img-fluid" alt="Responsive Image">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Testimonial End -->
+
         <!-- Countdown Start -->
 
         <?php include 'include/countdown.php'; ?>
@@ -323,7 +383,7 @@
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="team-item bg-light rounded">
                             <div class="text-center border-bottom p-4">
-                                <img class="img-fluid rounded-circle mb-4" src="img/speakers/6.webp" alt="">
+                                <img class="img-fluid rounded-circle mb-4" src="img/speakers/6.png" alt="">
                                 <h5>Dr. Anuragh Kumar</h5>
                                 <span>IISc Bangalore</span>
                             </div>
