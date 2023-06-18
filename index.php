@@ -183,7 +183,7 @@
         <!-- Countdown End -->
 
         <!-- Speakers Start -->
-        <div class="container-xxl py-5">
+        <div class="container-xxl py-5" id="speakers">
             <div class="container py-5 px-lg-5">
                 <div class="wow fadeInUp" data-wow-delay="0.1s">
                     <p class="section-title text-secondary justify-content-center"><span></span>CONECCT'23<span></span></p>
@@ -560,7 +560,7 @@
         <!-- Speakers End -->
 
         <!-- Tutorials Start -->
-        <div class="container-xxl py-5">
+        <div class="container-xxl py-5" id="tutorials">
             <div class="container py-5 px-lg-5">
                 <div class="wow fadeInUp" data-wow-delay="0.1s">
                     <p class="section-title text-secondary justify-content-center"><span></span>CONECCT'23<span></span></p>

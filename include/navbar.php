@@ -13,6 +13,8 @@
                 <a href="index.php" class="nav-item nav-link <?php if($page=="index") echo 'active'?>">Home</a>
                 <a href="index.php#about" class="nav-item nav-link">About Us</a>
                 <a href="oc.php" class="nav-item nav-link  <?php if($page=="oc") echo 'active'?>">Organizing Committee</a>
+                <a href="index.php#speakers" class="nav-item nav-link">Speakers</a>
+                <a href="index.php#tutorials" class="nav-item nav-link">Tutorials</a>
                 <a href="tracks.php" class="nav-item nav-link  <?php if($page=="tracks") echo 'active'?>">Tracks</a>
                 <a href="cfp.php" class="nav-item nav-link  <?php if($page=="cfp") echo 'active'?>">Call For Papers</a>
                 <a href="https://yp.ieeebangalore.org/conecct-yp-meet-2023/" target="_blank" class="nav-item nav-link ">YP Meet</a>
