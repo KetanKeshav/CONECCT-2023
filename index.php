@@ -49,8 +49,8 @@
         <!-- Hero End -->
 
         <!-- About Start -->
-        <div id="about" class="container-xxl py-5">
-            <div class="container py-5 px-lg-7">
+        <div id="about" class="container-xxl py-1">
+            <div class="container px-lg-7">
                 <div class="row g-5 align-items-center">
                     <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
                         <h1 class="text-center mb-5">ABOUT THE CONFERENCE</h1>
@@ -511,6 +511,49 @@
                         </div>
                     </div>
                     <!-- End of Speaker 9 Modal -->
+
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="team-item bg-light rounded">
+                            <div class="text-center border-bottom p-4">
+                                <img class="img-fluid rounded-circle mb-4" src="img/speakers/7.png" alt="">
+                                <h5>Subir Kumar Saha</h5>
+                                <span>Professor, Dept. of Mech. Eng., IIT Delhi, and Project Director, IHFC (Tech. Innovation Hub of IIT Delhi)</span>
+                            </div>
+                            <div class="d-flex justify-content-center p-4">
+                                <a class="btn btn-square mx-1" href="#" target = "_blank"><i class="fab fa-linkedin-in"></i></a>
+                                <button class="btn btn-square mx-1" data-bs-toggle="modal" data-bs-target="#speaker10-modal"><i class="fas fa-info-circle"></i></button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Modal for Speaker 10 -->
+                    <div class="modal fade" id="speaker10-modal" tabindex="-1" role="dialog" aria-labelledby="speaker10-modal-label" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                            <h5 class="modal-title" id="speaker8-modal-label">Subir Kumar Saha</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                            <h6>Speaker Information</h6>
+                            <p>Prof. Subir Kumar Saha, a 1983 Mechanical Engineering graduate from RE College (Now NIT), Durgapur, India, completed his M. Tech from IIT Kharagpur, India, and Ph. D from McGill University, Canada. Upon completion of his Ph. D, he joined Toshiba Corporation’s R&D Center in Japan. After 4-years of work experience in Japan, he has been with IIT Delhi since 1996.
+                                <br>
+                                He is actively engaged in teaching, research, and technology transfer. He completed sponsored projects and consultancies worth about Rs. 14 crores (~ USD 2.0 millions). Prof. Saha was awarded the Distinguished Alumnus Award for 2020 in Academic and Research by NIT Durgapur. He established the Mechatronics Laboratory at IIT Delhi in 2001, and contributed significantly in the development of the Programme for Autonomous Robotics during 2010-16 with the funding from BARC/BRNS, Mumbai. As a recognition of his international contributions, Prof. Saha was awarded the Humboldt Fellowship in 1999 by the AvH Foundation, Germany. He was Naren Gupta Chair Professor at IIT Delhi during 2010-20, and presently acting as the Project Director of IHFC (a non-profit company of IIT Delhi in the area of Cobotics). He has been also visiting faculty at IIT Madras, and short-term researcher at McGill University, Canada, Monash University, Australia, and University of Verona, Italy.
+                                <br>
+                                Prof. Saha published a text book in 2008 on “Introduction to Robotics” published by McGraw-Hill in India and Singapore. It was also translated in Mexican Spanish. To aid the learning of robotics, RoboAnalyzer software was developed in 2009 under his supervision. He also co-authored several specialized books published by Springer, e.g., 1) “Dynamics of Tree-type Robotics Systems” supported with ReDySim (Recursive Dynamics Simulator) software; and 2) “Dynamics and Balancing of Multibody Systems.” He has more than 200 research publications in reputed journals/conference proceedings, and delivered more than 240 invited/keynote lectures in India and abroad.
+                                <br>
+                                Prof. Saha’s two special interests are: 1) “Connecting Engineering Minds with the Society”, which he pursues through a lecture series called MuDRA, i.e., Multibody Dynamics for Rural Applications (delivered 70 times since 2007); and 2) Making engineering education industry-relevant, which he propagates through another lecture series “Robotics2Rural---Innovative Teaching and Research Approaches” (delivered 85 times since 2012). He has a fiction book in his credit “RoCK-BEE” published by www.pothi.com. The book was translated in Bengali. 
+                                <br>
+                                Prof. Saha occupied several administrative positions at IIT Delhi. He was the Head of the Department of Mechanical Engineering during 2015-18, Associate Dean of Students during 2009-12, Vice-Chairman of GATE/JAM/GMAT examinations during 2008-09, President of BRCA during 2010-11, and others. Presently, he is the Coordinator of the Rural Technology Action Group (RuTAG) at IIT Delhi, a programme sponsored by the Office of the Principle Scientific Adviser to the Govt. of India. Prof. Saha is the Vice-President (Academic) of The Robotics Society (formally known as Robotics Society of India), and National judge of the DD-Robocom competitions in India since 2005. During 2008-15, he was the Vice President of the Association of Machines and Mechanisms (An IFToMM body in India). His philanthropic interest spans over last two decades. Prof. Saha introduced awards/prizes in his school (Vidyasagar Vidyapeath in Midnapore, West Bengal), R.E. College (now NIT) Durgapur, DD-Robocon competitions, and Robotics club at IIT Delhi.
+                            </p>
+
+                            <h6>Talk - The Future of Cobotics</h6>
+                            <!-- <p>When working with large tabular datasets, Artificial Neural Network (ANN) models are preferred due to their in-core data processing capabilities. However, ANN models are vulnerable to adversarial attacks, which has led to a surge in research on developing effective defence strategies against such attacks. Generative models have been found to be more robust to adversarial attacks compared to discriminative models. This has led to the question of whether generative models can be used to defend discriminative models against adversarial attacks. The aim of this talk is to explore the potential of generative models in protecting ANN models from adversarial attacks, and to introduce some recently proposed techniques, e.g. D2A3, gD2A3 that take advantage of the generative-discriminative equivalence of certain ANN models.</p> -->
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    <!-- End of Speaker 10 Modal -->
                 </div>
             </div>
         </div>
@@ -533,13 +576,13 @@
                                 <span>Technical Lead,  L&T Technology Services</span>
                             </div>
                             <div class="d-flex justify-content-center p-4">
-                                <a class="btn btn-square mx-1" href="https://www.linkedin.com/in/saifur-rahman-vt" target = "_blank"><i class="fab fa-linkedin-in"></i></a>
+                                <a class="btn btn-square mx-1" href="#" target = "_blank"><i class="fab fa-linkedin-in"></i></a>
                                 <button class="btn btn-square mx-1" data-bs-toggle="modal" data-bs-target="#tutorial1-modal"><i class="fas fa-info-circle"></i></button>
                             </div>
                         </div>
                     </div>
                 
-                    <!-- Modal for Speaker 1 -->
+                    <!-- Modal for Tutorial 1 -->
                     <div class="modal fade" id="tutorial1-modal" tabindex="-1" role="dialog" aria-labelledby="tutorial1-modal-label" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-centered" role="document">
                         <div class="modal-content">
@@ -574,7 +617,67 @@
                         </div>
                         </div>
                     </div>
-                    <!-- End of Speaker 1 Modal -->
+                    <!-- End of Tutorial 1 Modal -->
+
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="team-item bg-light rounded">
+                            <div class="text-center border-bottom p-4">
+                                <img class="img-fluid rounded-circle mb-4" src="img/tutorials/2.png" alt="">
+                                <h5>Tutorial 2</h5>
+                                <span>A R Karthikeyan</span><br>
+                                <span>Sr Principal Engineer, HARMAN International</span>
+                            </div>
+                            <div class="d-flex justify-content-center p-4">
+                                <a class="btn btn-square mx-1" href="#" target = "_blank"><i class="fab fa-linkedin-in"></i></a>
+                                <button class="btn btn-square mx-1" data-bs-toggle="modal" data-bs-target="#tutorial2-modal"><i class="fas fa-info-circle"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                
+                    <!-- Modal for Tutorial 2 -->
+                    <div class="modal fade" id="tutorial2-modal" tabindex="-1" role="dialog" aria-labelledby="tutorial2-modal-label" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                            <h5 class="modal-title" id="tutorial1-modal-label">Janamejaya Channegowda</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                            <!-- Add the speaker's information and abstract here -->
+                            <h6>Speaker Information</h6>
+                            <p>A R Karthikeyan's academic background is with BE(ECE) where he started with signal processing as his career,
+                                best outgoing student of ME(Wireless Technologies) under TIFAC-CORE programme of DST, PhD(Communications) at IIT Madras where he built his theoretical skills.
+                                With the interest and goal of seeing and building an end-to-end product from scratch, he had worked as individual, team/project lead, Group Lead. 
+                                His passion started with participation in R&D sponsored projects from DEAL, Dehradun & RCI, Hyderabad. He has actively contributed in building Zigbee prototype, LTE (4G Modem), Precision Approach Radar(PAR),
+                                Object Classification in Automotive Radars, Life Presence Detection & Classification.
+                                He has passion for cars, driving, concerns for the safety of driver and general public.
+                                With radar as his domain, his goal is to build products for safe and improved user experience.</p>
+                            <!-- Add more speaker information if needed -->
+
+                            <h6>Talk - Radar Sensing Challenges & Opportunities for next 10 years</h6>
+                            <p>Historically Radar System had been associated with defense applications. This is no longer a status 
+                                quo with the rapid development and scale of applications in the past decade. With the advancement 
+                                in mmwave technologies, miniaturization, there had been rapid innovation in the areas of 1) Waveform Design, RF front end design,  
+                                interference handling, algorithm development at scale with use of Machine Learning approaches. 
+                                <br>
+                                The development in the past decade, more specifically in Automotive industry for Advanced Driving Assistance Systems (ADAS) had seen phenomenal growth in innovation and large-scale adoption. There are millions of sensors deployed in vehicles saving lives with automatic Emergency Break Assist (EBA) and Cruise Control (CC) functions. There are still lot of design and application problems to be solved.
+                                <br>
+                                Other applications are Traffic Monitoring, Occupant Monitoring in room/vehicle, Contact-based Vital Sign (respiration, heart rate) estimation, Gesture Recognition, Radar Imaging and many more for commercial, medical, multi-disciplinary IoT applications.
+                            </p>
+
+                            <h6>Tutorial Details:</h6>
+                            <ul>
+                            <p>The focus of this tutorial is</p>
+                            <li>To provide a quick look back in time what brought these changes in the past 10 years and what lies ahead</li>
+                            <li>To introduce few low cost radar sensor, approach to collect data, typical signal processing chain algorithms, approach to develop own algorithm/application at Bachelors/Masters level</li>
+                            <li>Challenges and Opportunities for R&D, Higher studies, job markets at a time where Radar Engineers are in huge demand across globe.</li>
+                            </ul>
+                            <!-- Add more abstract content if needed -->
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    <!-- End of Tutorial 2 Modal -->
                 </div>
             </div>
         </div>
