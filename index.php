@@ -516,7 +516,7 @@
                         <div class="team-item bg-light rounded">
                             <div class="text-center border-bottom p-4">
                                 <img class="img-fluid rounded-circle mb-4" src="img/speakers/7.png" alt="">
-                                <h5>Subir Kumar Saha</h5>
+                                <h5>Prof. Subir Kumar Saha</h5>
                                 <span>Professor, Dept. of Mech. Eng., IIT Delhi, and Project Director, IHFC (Tech. Innovation Hub of IIT Delhi)</span>
                             </div>
                             <div class="d-flex justify-content-center p-4">
