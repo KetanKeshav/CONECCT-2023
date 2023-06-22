@@ -26,7 +26,7 @@
                 </li>
                 <a href="cfp.php" class="nav-item nav-link  <?php if($page=="cfp") echo 'active'?>">Call For Papers</a>
                 <a href="https://yp.ieeebangalore.org/conecct-yp-meet-2023/" target="_blank" class="nav-item nav-link ">YP Meet</a>
-                <a href="downloads/CONECCT_2023.ppt" class="nav-item nav-link" download>Author slides</a>
+                <a href="downloads/CONECCT-2023.pptx" class="nav-item nav-link" download>Author slides</a>
             </div>
             <a href="https://in.explara.com/e/ieee--conecct-2023" class="btn rounded-pill py-2 px-4 ms-3 d-none d-lg-block">Register Now</a>
         </div>
