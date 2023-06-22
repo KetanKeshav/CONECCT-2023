@@ -11,7 +11,7 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav mx-auto py-0">
                 <a href="index.php" class="nav-item nav-link <?php if($page=="index") echo 'active'?>">Home</a>
-                <a href="index.php#about" class="nav-item nav-link">About Us</a>
+                <a href="index.php#about" class="nav-item nav-link">About</a>
                 <a href="oc.php" class="nav-item nav-link  <?php if($page=="oc") echo 'active'?>">Organizing Committee</a>
                 <a href="index.php#speakers" class="nav-item nav-link">Speakers</a>
                 <a href="index.php#tutorials" class="nav-item nav-link">Tutorials</a>
