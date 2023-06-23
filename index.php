@@ -692,19 +692,19 @@
 
                 <?php include 'include/important-dates.php'; ?>
 
-                <center>
-                    <div class="col-md-3 text-md-right text-center">
+                <div class="row justify-content-center">
+                    <div class="col-md-4 text-md-right pt-2 text-center">
                         <a href="https://cmt3.research.microsoft.com/CONECCT2023/" target="blank" class="btn btn-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Submit Your Paper</a>
-                    </div><br>
-                    <div class="col-md-3 text-md-right text-center">
+                    </div>
+                    <div class="col-md-4 text-md-right pt-2 text-center">
                         <a href="https://bit.ly/CONECCT2023Tutorials" target="blank" class="btn btn-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Tutorial Submission</a>
                     </div>
-                    <br><br>
-                    <div class="col-md-3 text-md-right text-center">
-                        <p class="animated slideInLeft">Instructions for authors of accepted papers.</p>
+                    <br>
+                    <div class="col-md-4 text-md-right pt-2 text-center">
                         <a href="downloads/AuthorInstructions-CameraReady.pdf" class="btn btn-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft" download="Instructions-IEEE-CONECCT23">Instructions</a>
+                        <p class="animated slideInLeft pt-1">Instructions for authors of accepted papers.</p>
                     </div>
-                </center>
+                </div>
 
             </div>
         </div>
