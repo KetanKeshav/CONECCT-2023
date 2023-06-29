@@ -598,7 +598,7 @@
                         <div class="team-item bg-light rounded">
                             <div class="text-center border-bottom p-4">
                                 <img class="img-fluid rounded-circle mb-4" src="img/tutorials/1.png" alt="">
-                                <h5>Tutorial on Smart Grid</h5>
+                                <h5>A Cyber-physical System Approach Towards Robust Battery Management Systems for Transportation Electrification Applications</h5>
                                 <span>Janamejaya Channegowda</span><br>
                                 <span>Technical Lead,  L&T Technology Services</span>
                             </div>
@@ -650,7 +650,7 @@
                         <div class="team-item bg-light rounded">
                             <div class="text-center border-bottom p-4">
                                 <img class="img-fluid rounded-circle mb-4" src="img/tutorials/2.png" alt="">
-                                <h5>Tutorial on Smart Grid</h5>
+                                <h5>Radar Sensing Challenges & Opportunities for next 10 years</h5>
                                 <span>A R Karthikeyan</span><br>
                                 <span>Sr Principal Engineer, HARMAN International</span>
                             </div>
