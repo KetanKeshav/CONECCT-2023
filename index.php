@@ -93,11 +93,10 @@
                     <div class="testimonial-item bg-light rounded my-4">
                         <div class="d-flex align-items-center">
                             <div class="ps-4">
-                                <img src="img/sponsors/drdo.png" class="img-fluid" alt="Responsive Image">
+                                <img src="img/sponsors/ypglobal.png" class="img-fluid" alt="Responsive Image">
                             </div>
                         </div>
                     </div>
-                    
                 </div>
             </div>
         </div>
@@ -172,6 +171,26 @@
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
+        <!-- Testimonial End -->
+
+        <!-- Testimonial Start -->
+        <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="container py-5 px-lg-5">
+                <p class="section-title text-secondary justify-content-center"><span></span>Partners<span></span></p>
+                <h1 class="text-center mb-5">Associate Partners</h1>
+                <center>
+                <div class="col-6 align-items-center">
+                    <div class="testimonial-item bg-light rounded my-4">
+                        <div class="d-flex align-items-center">
+                            <div class="ps-4">
+                                <img src="img/sponsors/sac.png" class="img-fluid" alt="Responsive Image">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </center>
             </div>
         </div>
         <!-- Testimonial End -->
@@ -748,7 +767,8 @@
                 <p>Dr. M. R. Jayaram, Chairman, Gokula Education Foundation</p>
                 <p>Sri. M. R. Seetharam, Vice Chairman, Gokula Education Foundation Director, Ramaiah Institute of Technology</p>
                 <p>Sri. M. R. Ramaiah Secretary, Gokula Education Foundation Director, Ramaiah Institute of Technology</p>
-                <p>Dr. N. V. R. Naidu Principal, Ramaiah Institute of Technology</p><br>
+                <p>Dr. N. V. R. Naidu Principal, Ramaiah Institute of Technology</p>
+                <p>Shri B.S. Ramaprasad, Chief Executive, GEF (Engg. & GS)</p><br>
                 <h5><b>General Chair:</b></h5>
                 <p>Dr. Aloknath De, Executive Consulting Director - Samsung, and IEEE Bangalore Section Chair 2023</p>
                 <br>
@@ -1006,7 +1026,7 @@
                     </div>
 
                     <div class="row justify-content-center">
-                    <div class="col-md-3 col-12">
+                    <!-- <div class="col-md-3 col-12">
                         <div class="price_box active">
                             <div class="price_header">
                                 <h5>
@@ -1022,7 +1042,7 @@
 <a href="https://in.explara.com/e/ieee--conecct-2023" class="btn btn-primary btn-rounded">Register</a>
 </div>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="col-md-3 col-12">
                         <div class="price_box">
                             <div class="price_header">
