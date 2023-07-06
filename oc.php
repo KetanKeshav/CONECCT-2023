@@ -65,7 +65,7 @@
                             <div class="text-center border-bottom p-4">
                                 <img class="img-fluid rounded-circle mb-4" src="img/oc/2.webp" alt="">
                                 <h5>Sri. M. R. Seetharam</h5>
-                                <span>Vice Chairman, Gokula Education<br> Foundation Director, Ramaiah Institute of Technology</span>
+                                <span>Vice Chairman, GEF and <br> Director, Ramaiah Institute of Technology</span>
                             </div>
                             <!-- <div class="d-flex justify-content-center p-4">
                                 <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
@@ -80,22 +80,7 @@
                             <div class="text-center border-bottom p-4">
                                 <img class="img-fluid rounded-circle mb-4" src="img/oc/3.webp" alt="">
                                 <h5>Sri. M. R. Ramaiah </h5>
-                                <span>Secretary, Gokula Education <br>Foundation Director, Ramaiah Institute of Technology</span>
-                            </div>
-                            <!-- <div class="d-flex justify-content-center p-4">
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-linkedin-in"></i></a>
-                            </div> -->
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                        <div class="team-item bg-light rounded">
-                            <div class="text-center border-bottom p-4">
-                                <img class="img-fluid rounded-circle mb-4" src="img/oc/4.webp" alt="">
-                                <h5>Dr. N. V. R. Naidu </h5>
-                                <span>Principal<br> Ramaiah Institute of Technology</span>
+                                <span>Secretary, GEF and <br>Director, Ramaiah Institute of Technology</span>
                             </div>
                             <!-- <div class="d-flex justify-content-center p-4">
                                 <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
@@ -111,6 +96,21 @@
                                 <img class="img-fluid rounded-circle mb-4" src="img/oc/16.png" alt="">
                                 <h5>Shri B.S. Ramaprasad </h5>
                                 <span>Chief Executive<br> GEF (Engg. & GS)</span>
+                            </div>
+                            <!-- <div class="d-flex justify-content-center p-4">
+                                <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square mx-1" href=""><i class="fab fa-linkedin-in"></i></a>
+                            </div> -->
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="team-item bg-light rounded">
+                            <div class="text-center border-bottom p-4">
+                                <img class="img-fluid rounded-circle mb-4" src="img/oc/4.webp" alt="">
+                                <h5>Dr. N. V. R. Naidu </h5>
+                                <span>Principal<br> Ramaiah Institute of Technology</span>
                             </div>
                             <!-- <div class="d-flex justify-content-center p-4">
                                 <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
