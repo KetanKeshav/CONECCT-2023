@@ -20,8 +20,8 @@
                         Schedule
                     </a>
                     <div class="dropdown-menu" aria-labelledby="scheduleDropdown">
-                        <a class="dropdown-item" href="downloads/conference_schedule.pdf" download>Conference Schedule</a>
-                        <a class="dropdown-item" href="downloads/track_session_details.pdf" download>Track Session Details</a>
+                        <a class="dropdown-item" href="downloads/ProgramOverview.pdf" download>Conference Schedule</a>
+                        <a class="dropdown-item" href="downloads/TrackSessionDetails.pdf" download>Track Session Details</a>
                     </div>
                 </li>
                 <a href="cfp.php" class="nav-item nav-link  <?php if($page=="cfp") echo 'active'?>">Call For Papers</a>
