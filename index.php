@@ -35,9 +35,13 @@
                         <div class="col-lg-6 text-center text-lg-start">
                             <h1 class="text-white mb-4 animated slideInDown">IEEE CONECCT 2023</h1>
                             <h3 class="text-white pb-3 animated slideInDown">14TH - 16TH July 2023 - Bangalore </h3>
-                            <a href="https://in.explara.com/e/ieee--conecct-2023" class="btn btn-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Register Now</a>
-                            <a href="./downloads/cfp.pdf" class="btn btn-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft" download>Call for papers</a>
+                            <!-- <a href="https://in.explara.com/e/ieee--conecct-2023" class="btn btn-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Register Now</a>
+                            <a href="./downloads/cfp.pdf" class="btn btn-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft" download>Call for papers</a> -->
                             <!-- <a href="" class="btn btn-light py-sm-3 px-sm-5 rounded-pill animated slideInRight">Contact Us</a> -->
+                            <a href="./downloads/ProgramOverview.pdf" class="btn btn-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft" download>Program Overview</a>
+                            <a href="./downloads/TrackSessionDetails.pdf" class="btn btn-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft" download>Track Sessions</a>
+                            <br>
+                            <a href="./downloads/Transportation.pdf" class="btn btn-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft" download>How To Reach?</a>
                         </div>
                         <div class="col-lg-6 text-center text-lg-start">
                             <img class="img-fluid animated zoomIn" src="img/hero.png" alt="">
