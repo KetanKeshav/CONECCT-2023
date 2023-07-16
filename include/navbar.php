@@ -12,7 +12,7 @@
             <div class="navbar-nav mx-auto py-0">
                 <a href="index.php" class="nav-item nav-link <?php if($page=="index") echo 'active'?>">Home</a>
                 <a href="index.php#about" class="nav-item nav-link">About</a>
-                <a href="oc.php" class="nav-item nav-link  <?php if($page=="oc") echo 'active'?>">Organizing Committee</a>
+                <a href="oc.php" class="nav-item nav-link  <?php if($page=="oc") echo 'active'?>" style="font-size:15.5px">Organizing Committee</a>
                 <a href="index.php#speakers" class="nav-item nav-link">Speakers</a>
                 <a href="index.php#tutorials" class="nav-item nav-link">Tutorials</a>
                 <li class="nav-item dropdown">
@@ -20,13 +20,29 @@
                         Schedule
                     </a>
                     <div class="dropdown-menu" aria-labelledby="scheduleDropdown">
-                        <a class="dropdown-item" href="downloads/ProgramOverview.pdf" download>Conference Schedule</a>
+                        <a class="" href="downloads/ProgramOverview.pdf" download>Conference Schedule</a>
                         <a class="dropdown-item" href="downloads/TrackSessionDetails.pdf" download>Track Session Details</a>
                     </div>
                 </li>
-                <a href="cfp.php" class="nav-item nav-link  <?php if($page=="cfp") echo 'active'?>">Call For Papers</a>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle <?php if($page=="cfp") echo 'active'?>" href="#" id="scheduleDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Authors
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="scheduleDropdown">
+                        <a href="downloads/CONECCT-2023.pptx" class="dropdown-item" download>Author slides</a>
+                        <a href="cfp.php" class="dropdown-item  <?php if($page=="cfp") echo 'active'?>">Call For Papers</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle <?php if($page=="cfp") echo 'active'?>" href="#" id="scheduleDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Previous Editions
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="scheduleDropdown">
+                        <a href="https://2022.connect.ieeebangalore.org/" class="dropdown-item">CONECCT 2022</a>
+                        <a href="https://2021.connect.ieeebangalore.org/" class="dropdown-item ">CONECCT 2021</a>
+                    </div>
+                </li>
                 <a href="https://yp.ieeebangalore.org/conecct-yp-meet-2023/" target="_blank" class="nav-item nav-link ">YP Meet</a>
-                <a href="downloads/CONECCT-2023.pptx" class="nav-item nav-link" download>Author slides</a>
             </div>
             <a href="https://in.explara.com/e/ieee--conecct-2023" class="btn rounded-pill py-2 px-4 ms-3 d-none d-lg-block">Register Now</a>
         </div>
