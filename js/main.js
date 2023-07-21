@@ -88,72 +88,72 @@
 })(jQuery);
 
 document.addEventListener("DOMContentLoaded", function () {
-    const galleryItems = document.querySelectorAll(".gallery-item");
-    const lightbox = document.getElementById("lightbox");
-    const lightboxImg = document.getElementById("lightbox-img");
-    const closeBtn = document.getElementById("close-btn");
-    const prevBtn = document.getElementById("prev-btn");
-    const nextBtn = document.getElementById("next-btn");
+  const galleryItems = document.querySelectorAll(".gallery-item");
+  const lightbox = document.getElementById("lightbox");
+  const lightboxImg = document.getElementById("lightbox-img");
+  const closeBtn = document.getElementById("close-btn");
+  const prevBtn = document.getElementById("prev-btn");
+  const nextBtn = document.getElementById("next-btn");
 
-    let currentIndex = 0;
-    let pageReloaded = true;
+  let currentIndex = 0;
 
-    function showImage(index) {
-        if (index < 0) {
-            currentIndex = galleryItems.length - 1;
-        } else if (index >= galleryItems.length) {
-            currentIndex = 0;
-        }
+  function showImage(index) {
+      if (index < 0) {
+          currentIndex = galleryItems.length - 1;
+      } else if (index >= galleryItems.length) {
+          currentIndex = 0;
+      }
 
-        const imgSrc = galleryItems[currentIndex].querySelector("img").src;
-        lightboxImg.src = imgSrc;
-    }
+      const imgSrc = galleryItems[currentIndex].querySelector("img").src;
+      lightboxImg.src = imgSrc;
+  }
 
-    galleryItems.forEach((item, index) => {
-        item.addEventListener("click", function () {
-            currentIndex = index;
-            showImage(currentIndex);
-            lightbox.style.display = "flex";
-            pageReloaded = false;
-        });
-    });
+  galleryItems.forEach((item, index) => {
+      item.addEventListener("click", function () {
+          currentIndex = index;
+          showImage(currentIndex);
+          lightbox.style.display = "flex";
+          sessionStorage.setItem("lightboxOpened", "true");
+      });
+  });
 
-    function closeLightbox() {
-        lightbox.style.display = "none";
-    }
+  function closeLightbox() {
+      lightbox.style.display = "none";
+  }
 
-    function navigateImage(direction) {
-        currentIndex += direction;
-        showImage(currentIndex);
-    }
+  function navigateImage(direction) {
+      currentIndex += direction;
+      showImage(currentIndex);
+  }
 
-    closeBtn.addEventListener("click", closeLightbox);
-    prevBtn.addEventListener("click", () => navigateImage(-1));
-    nextBtn.addEventListener("click", () => navigateImage(1));
+  closeBtn.addEventListener("click", closeLightbox);
+  prevBtn.addEventListener("click", () => navigateImage(-1));
+  nextBtn.addEventListener("click", () => navigateImage(1));
 
-    document.addEventListener("keydown", function (event) {
-        if (lightbox.style.display === "flex") {
-            if (event.key === "Escape") {
-                closeLightbox();
-            } else if (event.key === "ArrowLeft") {
-                navigateImage(-1);
-            } else if (event.key === "ArrowRight") {
-                navigateImage(1);
-            }
-        }
-    });
+  document.addEventListener("keydown", function (event) {
+      if (lightbox.style.display === "flex") {
+          if (event.key === "Escape") {
+              closeLightbox();
+          } else if (event.key === "ArrowLeft") {
+              navigateImage(-1);
+          } else if (event.key === "ArrowRight") {
+              navigateImage(1);
+          }
+      }
+  });
 
-    // Optional: Add support for mouse scroll
-    window.addEventListener("wheel", function (event) {
-        if (lightbox.style.display === "flex") {
-            event.preventDefault();
-            const delta = event.deltaY;
-            navigateImage(delta > 0 ? 1 : -1);
-        }
-    });
+  // Optional: Add support for mouse scroll
+  window.addEventListener("wheel", function (event) {
+      if (lightbox.style.display === "flex") {
+          event.preventDefault();
+          const delta = event.deltaY;
+          navigateImage(delta > 0 ? 1 : -1);
+      }
+  });
 
-    // Check if the page was reloaded
-    if (performance.navigation.type === 1 && pageReloaded) {
-        lightbox.style.display = "none";
-    }
+  // Check if the page was reloaded or navigated from another page
+  const lightboxOpened = sessionStorage.getItem("lightboxOpened");
+  if (!lightboxOpened) {
+      lightbox.style.display = "none";
+  }
 });

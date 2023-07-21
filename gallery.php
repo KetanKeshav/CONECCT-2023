@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php $page = "index"; ?>
+<?php $page = "gal"; ?>
 
 <head>
     <meta charset="utf-8">
