@@ -20,7 +20,7 @@
                         Schedule
                     </a>
                     <div class="dropdown-menu" aria-labelledby="scheduleDropdown">
-                        <a class="" href="downloads/ProgramOverview.pdf" download>Conference Schedule</a>
+                        <a class="dropdown-item" href="downloads/ProgramOverview.pdf" download>Conference Schedule</a>
                         <a class="dropdown-item" href="downloads/TrackSessionDetails.pdf" download>Track Session Details</a>
                     </div>
                 </li>
